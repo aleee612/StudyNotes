@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "595dc8a90c752982",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef94405d544dd736",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f104353a7826417d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概念/操作系统/操作系统原理/进程/控制.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "控制"
+            }
+          },
+          {
+            "id": "83dffa7ffb7785f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计划/2025.9/2025-09-18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-18"
+            }
+          },
+          {
+            "id": "4b244320148f2f04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "计划/2025.9/2025-09-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-19"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e5657f57fff483d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5864fbcafa7ebd1a",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "4fd48b074c3267c9",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "f6c967b2a2d5915b",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "a67ac5cc4c6f3b2f",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "8bf37b0ec37aeaab",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1c86291932dc18a7",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "概念/操作系统/操作系统原理/原理.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "0c09778cb908919c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "概念/操作系统/操作系统原理/原理.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "7400c39ee5b463bd",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "概念/操作系统/操作系统原理/原理.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      },
+      {
+        "id": "936d7c7848ed2e74",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
+      },
+      {
+        "id": "3bf836a63ec874ea",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Calendar"
+        }
+      },
+      {
+        "id": "1b80008580aa0de3",
+        "type": "leaf",
+        "state": {
+          "type": "planner-timeline",
+          "state": {},
+          "icon": "calendar-with-checkmark",
+          "title": "Timeline"
+        }
+      }
+    ],
+    "currentTab": 3
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "bases:创建新数据库": false,
+      "obsidian-git:Open Git source control": false,
+      "publish:发布更改": false
+    }
+  },
+  "active": "4b244320148f2f04",
+  "lastOpenFiles": [
+    "未命名.base",
+    "计划/2025.9/2025-09-19.md",
+    "授课/STL/常见函数.md",
+    "日常小记/ensp使用AR出现40问题.md",
+    "日常小记/bat文件制作.md",
+    "计划/2025.9/2025-09-18.md",
+    "项目管理&备赛备考/个人博客/日志记录/6.11.md",
+    "语法/JavaScript/React/css的引入.md",
+    "日常小记/vscode快捷键合集.md",
+    "日常小记/ollama一般指令.md",
+    "日常小记/MySQL 导入 CSV 数据完整流程.md",
+    "日常小记/网站汇总.md",
+    "计划/2025.9/任务汇总.md",
+    "conflict-files-obsidian-git.md",
+    "授课/循环语句.md",
+    "概念/操作系统/操作系统原理/进程/控制.md",
+    "/授课/社团授课/循环语句.md",
+    "授课/社团授课/循环语句.md",
+    "/授课/社团授课",
+    "/项目管理&备赛备考/数学建模/层次分析法.md",
+    "/项目管理&备赛备考/数学建模",
+    "/项目管理&备赛备考/个人博客/日志记录/6.11.md",
+    "/项目管理&备赛备考/个人博客/日志记录",
+    "/项目管理&备赛备考/个人博客",
+    "/项目管理&备赛备考",
+    "/语法/matlab/基础语法.md",
+    "/语法/matlab",
+    "/语法/Markdown/综述.md",
+    "/语法/Markdown/围栏代码块.md",
+    "/语法/Markdown/删除线.md",
+    "/语法/Markdown/使用 Emoji 表情.md",
+    "/语法/Markdown/任务列表语法.md",
+    "/语法/Markdown",
+    "/语法",
+    "/概念/操作系统/操作系统原理/进程"
+  ]
+}

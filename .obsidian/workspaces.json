@@ -1,0 +1,573 @@
+{
+  "workspaces": {
+    "pdf": {
+      "main": {
+        "id": "ac1599237b72b623",
+        "type": "split",
+        "children": [
+          {
+            "id": "137a88729a77d580",
+            "type": "split",
+            "children": [
+              {
+                "id": "bc271628cba645f7",
+                "type": "tabs",
+                "dimension": 58.2107843137255,
+                "children": [
+                  {
+                    "id": "c6389c5040739b79",
+                    "type": "leaf",
+                    "state": {
+                      "type": "pdf",
+                      "state": {
+                        "file": "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf"
+                      },
+                      "icon": "lucide-file-text",
+                      "title": "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library)"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "7e31ff93adbaec1b",
+                "type": "tabs",
+                "dimension": 41.78921568627451,
+                "children": [
+                  {
+                    "id": "80d05e55ea52c250",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "概念/计算机网络/基本概念/OSI七层模型.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "OSI七层模型"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "58112afe5863cb19",
+        "type": "split",
+        "children": [
+          {
+            "id": "50c5292479b19f37",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53eeedd2796567c2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTimeReverse",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "7477dcf3c11663ae",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#复制和粘贴表情符号",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "6528ff890eb5e427",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "3f280301191338bb",
+        "type": "split",
+        "children": [
+          {
+            "id": "6aa705245da954ef",
+            "type": "tabs",
+            "dimension": 39.076376554174075,
+            "children": [
+              {
+                "id": "a3ba49f34f648141",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "日常小记/git基本操作.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "git基本操作 的反向链接列表"
+                }
+              },
+              {
+                "id": "dee6f202e935abf9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "概念/计算机组成原理/程序计数器PC.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "程序计数器PC 的出链列表"
+                }
+              },
+              {
+                "id": "f50c5d525b212cf8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "7134ca01a533b930",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "0ae6005ef5a54827",
+            "type": "tabs",
+            "dimension": 60.923623445825925,
+            "children": [
+              {
+                "id": "87a06188a445b495",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library) 的大纲"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 217.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:发布更改": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "bases:创建新数据库": false,
+          "obsidian-day-planner:Open Timeline": false,
+          "obsidian-day-planner:Open Multi-Day View": false
+        }
+      },
+      "active": "c6389c5040739b79",
+      "mtime": "2025-09-23T23:08:11+08:00"
+    },
+    "计网": {
+      "main": {
+        "id": "ac1599237b72b623",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc271628cba645f7",
+            "type": "tabs",
+            "dimension": 57.91433891992551,
+            "children": [
+              {
+                "id": "c6389c5040739b79",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "概念/计算机网络/杂记--小问题/网络协议栈软件.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "网络协议栈软件"
+                }
+              },
+              {
+                "id": "8d528f9a7eb508ec",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library)"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "64c71d7d5896edde",
+            "type": "tabs",
+            "dimension": 42.08566108007449,
+            "children": [
+              {
+                "id": "0907f3e2beeaa817",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "概念/计算机网络/基本概念/进程通信.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "进程通信"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "58112afe5863cb19",
+        "type": "split",
+        "children": [
+          {
+            "id": "50c5292479b19f37",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53eeedd2796567c2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTimeReverse",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "7477dcf3c11663ae",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#复制和粘贴表情符号",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "6528ff890eb5e427",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "3f280301191338bb",
+        "type": "split",
+        "children": [
+          {
+            "id": "6aa705245da954ef",
+            "type": "tabs",
+            "dimension": 39.076376554174075,
+            "children": [
+              {
+                "id": "a3ba49f34f648141",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "日常小记/git基本操作.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "git基本操作 的反向链接列表"
+                }
+              },
+              {
+                "id": "dee6f202e935abf9",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "概念/计算机组成原理/程序计数器PC.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "程序计数器PC 的出链列表"
+                }
+              },
+              {
+                "id": "f50c5d525b212cf8",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "标签"
+                }
+              },
+              {
+                "id": "7134ca01a533b930",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "0ae6005ef5a54827",
+            "type": "tabs",
+            "dimension": 60.923623445825925,
+            "children": [
+              {
+                "id": "87a06188a445b495",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "概念/计算机网络/基本概念/进程通信.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "进程通信 的大纲"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 217.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:发布更改": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "bases:创建新数据库": false
+        }
+      },
+      "active": "0907f3e2beeaa817",
+      "mtime": "2025-09-24T22:59:59+08:00"
+    },
+    "直播": {
+      "main": {
+        "id": "ac1599237b72b623",
+        "type": "split",
+        "children": [
+          {
+            "id": "3c8f493d9b894eda",
+            "type": "tabs",
+            "dimension": 60.371517027863774,
+            "children": [
+              {
+                "id": "584fcae69472e060",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Java核心技术·卷 I（原书第11版）  基础知识 (Cay S.Horstmann) (Z-Library).pdf"
+                  },
+                  "icon": "lucide-file-text",
+                  "title": "Java核心技术·卷 I（原书第11版）  基础知识 (Cay S.Horstmann) (Z-Library)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "dd66497b76a3b8fd",
+            "type": "tabs",
+            "dimension": 39.628482972136226,
+            "children": [
+              {
+                "id": "b029b7b9ddb017a6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "语法/Java/类与对象.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "类与对象"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "58112afe5863cb19",
+        "type": "split",
+        "children": [
+          {
+            "id": "50c5292479b19f37",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "53eeedd2796567c2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "byCreatedTimeReverse",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "7477dcf3c11663ae",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#复制和粘贴表情符号",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "3f280301191338bb",
+        "type": "split",
+        "children": [],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "publish:发布更改": false,
+          "workspaces:管理工作区布局": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "bases:创建新数据库": false
+        }
+      },
+      "active": "584fcae69472e060",
+      "mtime": "2025-09-26T23:02:07+08:00"
+    }
+  },
+  "active": "计网"
+}

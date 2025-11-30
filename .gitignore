@@ -1,0 +1,11 @@
+# 忽略大文件
+*.pdf
+*.zip
+*.rar
+*.7z
+*.iso
+
+# 忽略 Obsidian 自动文件
+.obsidian/cache/
+.obsidian/plugins/*
+!.obsidian/plugins/obsidian-git/*
