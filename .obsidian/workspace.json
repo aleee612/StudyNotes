@@ -4,65 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4082b3d11877bb79",
+        "id": "8b7f5b91b476ba9c",
         "type": "tabs",
-        "dimension": 58.18330605564648,
         "children": [
           {
-            "id": "a537a1f6096073de",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "2025年王道计算机网络考研复习指导 (--) (Z-Library).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2025年王道计算机网络考研复习指导 (--) (Z-Library)"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c5f78b5a115343fa",
-        "type": "tabs",
-        "dimension": 41.816693944353524,
-        "children": [
-          {
-            "id": "6e6dea1a26197c6b",
+            "id": "b4f8888bed276cbf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概念/计算机网络/基本概念/运输层/套接字.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
-              "icon": "lucide-file",
-              "title": "套接字"
-            }
-          },
-          {
-            "id": "c7ab5220751108b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概念/计算机网络/基本概念/应用层/应用层协议/电子邮件/电子邮件.md",
+                "file": "概念/操作系统/操作系统原理/概述/原理.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电子邮件"
+              "title": "原理"
             }
           }
         ]
@@ -97,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "套接字",
+                "query": "P2P",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -122,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5,
-    "collapsed": true
+    "width": 270.5
   },
   "right": {
     "id": "3f280301191338bb",
@@ -191,6 +146,26 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "0103da6de966e766",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
+            }
+          },
+          {
+            "id": "1ac6bc23c796f9a7",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
+            }
           }
         ],
         "currentTab": 3
@@ -206,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概念/计算机网络/基本概念/总论：如何传输数据？.md",
+                "file": "访管指令.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "总论：如何传输数据？ 的大纲"
+              "title": "访管指令 的大纲"
             }
           }
         ]
@@ -232,57 +207,58 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "juggl:Juggl global graph": false
     }
   },
-  "active": "6e6dea1a26197c6b",
+  "active": "b4f8888bed276cbf",
   "lastOpenFiles": [
-    "概念/计算机网络/基本概念/杂记--小问题/TCP的连接需要两套套接字（欢迎与连接），为什么在套接字编程的时候只写一个？.md",
-    "概念/计算机网络/基本概念/运输层/套接字.md",
-    "概念/计算机网络/基本概念/应用层/套接字编程.md",
-    "概念/计算机网络/基本概念/运输层/端口号.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/应用层协议.md",
-    "概念/计算机网络/基本概念/运输层/运输服务（协议）.md",
-    "2025年王道计算机网络考研复习指导 (--) (Z-Library).pdf",
-    "概念/计算机网络/基本概念/网络层/网络层服务.md",
-    "概念/计算机网络/基本概念/数据链路层/链路层协议.md",
-    "概念/计算机网络/基本概念/网络层/IP/网际寻址.md",
-    "概念/计算机网络/基本概念/网络层/IP/IP任播.md",
-    "概念/计算机网络/基本概念/运输层/TCP结构/可靠数据传输原理.md",
+    "概念/操作系统/操作系统原理/总览.md",
+    "概念/操作系统/操作系统原理/概述/原理.md",
+    "概念/计算机网络/基本概念/运输层/UDP.md",
+    "概念/操作系统/操作系统原理/概述/命令解释程序与图形用户界面.md",
+    "概念/操作系统/操作系统原理/概述/系统程序.md",
+    "2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
+    "概念/计算机网络/基本概念/运输层/TCP/数据传输方式/字节流传输.md",
+    "概念/计算机网络/基本概念/运输层/TCP/数据传输方式/发送&接收缓存.md",
+    "概念/计算机网络/基本概念/运输层/TCP/数据传输方式/粘包问题.md",
     "概念/计算机网络/基本概念/运输层/多路复用与多路分解.md",
-    "概念/计算机网络/基本概念/杂记--小问题/点到点连接&端到端连接.md",
-    "2024年408计算机专业基础综合真题+答案.pdf",
-    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/往返时间（RTT）.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/DNS：目录服务.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/Web和HTTP.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/常见状态码及其短语.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/无状态协议.md",
-    "概念/计算机网络/基本概念/运输层/TCP结构/拥塞控制原理.md",
+    "概念/计算机网络/基本概念/运输层/运输服务（协议）.md",
     "概念/计算机网络/基本概念/运输层/端到端原则.md",
-    "概念/计算机网络/基本概念/运输层/TCP结构/自动重传请求协议（ARQ）.md",
-    "概念/计算机网络/基本概念/运输层/TCP结构/流水线可靠数据传输协议（P-RDT）.md",
-    "概念/计算机网络/基本概念/总论：如何传输数据？.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/Cookie.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/方法字段/DELETE.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/方法字段/HEAD.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/电子邮件/Pasted image 20251128190533.png",
+    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/TCP报文段结构.md",
+    "概念/计算机网络/基本概念/总思维导图.md",
+    "概念/计算机网络/基本概念/运输层/TCP/TCP.md",
+    "概念/计算机网络/基本概念/应用层/应用层协议/P2P文件分发.md",
+    "概念/计算机网络/基本概念/运输层/套接字.md",
+    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/TCP 6bit 标志位.md",
+    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/序号和确认号.md",
+    "计算机网络.md",
+    "概念/计算机网络/基本概念/运输层/TCP/拥塞控制/MSS最大报文长度.md",
+    "概念/计算机网络/基本概念/数据链路层/MTU.md",
+    "概念/计算机网络/基本概念/网安/SSL.md",
+    "概念/计算机网络/基本概念/运输层/TCP/拥塞控制/超时与重传.md",
+    "概念/计算机网络/基本概念/运输层/TCP/发送端与接收端的协商/流量控制.md",
+    "概念/计算机网络/基本概念/运输层/TCP/可靠传输/可靠数据传输原理.md",
+    "概念/计算机网络/基本概念/运输层/TCP/握手与挥手/三次握手.md",
+    "概念/计算机网络/基本概念/运输层/TCP/数据传输方式",
+    "概念/计算机网络/基本概念/运输层/TCP/握手与挥手",
+    "概念/计算机网络/基本概念/运输层/TCP/拥塞控制",
+    "概念/计算机网络/基本概念/运输层/TCP",
+    "概念/计算机网络/基本概念/运输层/TCP/可靠传输",
     "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf",
-    "概念/计算机网络/基本概念/应用层/应用层协议/Pasted image 20251126090214.png",
-    "项目管理&备赛备考/考研/计网/Pasted image 20251124205322.png",
-    "项目管理&备赛备考/考研/计网",
-    "2025王道数据结构考研复习指导 (王道论坛) (Z-Library).pdf",
-    "项目管理&备赛备考/考研/数据结构",
-    "项目管理&备赛备考/考研",
-    "算法导论 第三版 可复制 有目录 (Thmos.H.Cormen ,Charles E. Leiserson etc.) (Z-Library).pdf",
-    "图片/Pasted image 20251124181309.png",
     "操作系统概念（原书第9版） ( etc.) (Z-Library).pdf",
-    "概念/操作系统/操作系统原理/文件管理",
-    "图片/Pasted image 20251124084816.png",
-    "图片/Pasted image 20251123221002.png",
-    "图片/a767a2857752e1051ef5145db8215ce2.png",
-    "图片/Pasted image 20251118174719.png",
-    "图片/Pasted image 20251118172758.png",
-    "图片/Pasted image 20251118153015.png",
+    "计划/2025.9/Pasted image 20251105183508.png",
+    "Java核心技术·卷 I（原书第11版）  基础知识 (Cay S.Horstmann) (Z-Library).pdf",
+    "图片/Pasted image 20251210171812.png",
+    "概念/计算机网络/基本概念/应用层/应用层协议/Pasted image 20251126090214.png",
+    "鸟哥的Linux私房菜 基础学习篇 第四版 (鸟哥) (Z-Library).pdf",
+    "图片/Pasted image 20251208085757.png",
+    "图片/Pasted image 20251207183028.png",
+    "图片/Pasted image 20251207182855.png",
+    "图片/Pasted image 20251207182543.png",
+    "图片/Pasted image 20251207182516.png",
+    "图片/Pasted image 20251207182454.png",
+    "图片/Pasted image 20251203183434.png",
     "未命名.canvas"
   ]
 }
