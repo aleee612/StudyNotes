@@ -4,24 +4,90 @@
     "type": "split",
     "children": [
       {
-        "id": "8b7f5b91b476ba9c",
+        "id": "b275e68fccf77238",
         "type": "tabs",
+        "dimension": 62.20285261489698,
         "children": [
           {
-            "id": "b4f8888bed276cbf",
+            "id": "9d78470e7d43f064",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概念/操作系统/操作系统原理/概述/原理.md",
+                "file": "概念/操作系统/操作系统原理/调度与死锁/死锁.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "原理"
+              "title": "死锁"
+            }
+          },
+          {
+            "id": "6da76f0309c5ac39",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/外刊地址汇总.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "外刊地址汇总"
+            }
+          },
+          {
+            "id": "d708db87b1200cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "英语/2025.12.15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025.12.15"
             }
           }
-        ]
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "f42b4f94f78398b0",
+        "type": "tabs",
+        "dimension": 37.79714738510302,
+        "children": [
+          {
+            "id": "eba948393af30862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概念/操作系统/操作系统原理/线程/ULT & KLT.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ULT & KLT"
+            }
+          },
+          {
+            "id": "82875ca917377622",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "概念/操作系统/操作系统原理/进程/UM & KM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UM & KM"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "P2P",
+                "query": "CPU 状态寄存器",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -78,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 229.5
   },
   "right": {
     "id": "3f280301191338bb",
@@ -87,7 +153,7 @@
       {
         "id": "6aa705245da954ef",
         "type": "tabs",
-        "dimension": 46.446078431372555,
+        "dimension": 24.509803921568626,
         "children": [
           {
             "id": "a3ba49f34f648141",
@@ -114,12 +180,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "概念/计算机网络/基本概念/总论：如何传输数据？.md",
+                "file": "概念/操作系统/操作系统原理/进程/进程的控制.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "总论：如何传输数据？ 的出链列表"
+              "title": "进程的控制 的出链列表"
             }
           },
           {
@@ -138,7 +204,7 @@
             }
           },
           {
-            "id": "7134ca01a533b930",
+            "id": "9769575be7721630",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -146,34 +212,14 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
-          },
-          {
-            "id": "0103da6de966e766",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_nodes",
-              "state": {},
-              "icon": "ag-node-list",
-              "title": "Juggl nodes"
-            }
-          },
-          {
-            "id": "1ac6bc23c796f9a7",
-            "type": "leaf",
-            "state": {
-              "type": "juggl_style",
-              "state": {},
-              "icon": "ag-style",
-              "title": "Juggl style"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
-        "id": "0ae6005ef5a54827",
+        "id": "28185300d05b8dee",
         "type": "tabs",
-        "dimension": 53.553921568627445,
+        "dimension": 75.49019607843137,
         "children": [
           {
             "id": "87a06188a445b495",
@@ -181,13 +227,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "访管指令.md",
+                "file": "英语/2025.12.15.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "访管指令 的大纲"
+              "title": "2025.12.15 的大纲"
             }
           }
         ]
@@ -207,58 +253,57 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false,
-      "juggl:Juggl global graph": false
+      "bases:创建新数据库": false
     }
   },
-  "active": "b4f8888bed276cbf",
+  "active": "d708db87b1200cda",
   "lastOpenFiles": [
-    "概念/操作系统/操作系统原理/总览.md",
-    "概念/操作系统/操作系统原理/概述/原理.md",
-    "概念/计算机网络/基本概念/运输层/UDP.md",
-    "概念/操作系统/操作系统原理/概述/命令解释程序与图形用户界面.md",
-    "概念/操作系统/操作系统原理/概述/系统程序.md",
+    "英语/2025.12.15.md",
+    "英语/外刊地址汇总.md",
+    "概念/操作系统/操作系统原理/线程/进程通信.md",
+    "英语/A single DNS race condition brought AWS to its knees.md",
     "2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
-    "概念/计算机网络/基本概念/运输层/TCP/数据传输方式/字节流传输.md",
-    "概念/计算机网络/基本概念/运输层/TCP/数据传输方式/发送&接收缓存.md",
-    "概念/计算机网络/基本概念/运输层/TCP/数据传输方式/粘包问题.md",
-    "概念/计算机网络/基本概念/运输层/多路复用与多路分解.md",
-    "概念/计算机网络/基本概念/运输层/运输服务（协议）.md",
-    "概念/计算机网络/基本概念/运输层/端到端原则.md",
-    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/TCP报文段结构.md",
-    "概念/计算机网络/基本概念/总思维导图.md",
-    "概念/计算机网络/基本概念/运输层/TCP/TCP.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/P2P文件分发.md",
-    "概念/计算机网络/基本概念/运输层/套接字.md",
-    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/TCP 6bit 标志位.md",
-    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/序号和确认号.md",
-    "计算机网络.md",
-    "概念/计算机网络/基本概念/运输层/TCP/拥塞控制/MSS最大报文长度.md",
-    "概念/计算机网络/基本概念/数据链路层/MTU.md",
-    "概念/计算机网络/基本概念/网安/SSL.md",
-    "概念/计算机网络/基本概念/运输层/TCP/拥塞控制/超时与重传.md",
-    "概念/计算机网络/基本概念/运输层/TCP/发送端与接收端的协商/流量控制.md",
-    "概念/计算机网络/基本概念/运输层/TCP/可靠传输/可靠数据传输原理.md",
-    "概念/计算机网络/基本概念/运输层/TCP/握手与挥手/三次握手.md",
+    "概念/操作系统/操作系统原理/调度与死锁/死锁.md",
+    "概念/操作系统/操作系统原理/调度与死锁/调度算法.md",
+    "概念/操作系统/操作系统原理/调度与死锁/调度.md",
+    "概念/操作系统/操作系统原理/调度与死锁/作业.md",
+    "概念/操作系统/操作系统原理/线程/线程控制.md",
+    "概念/操作系统/操作系统原理/线程/线程栈保护.md",
+    "概念/操作系统/操作系统原理/线程/线程库ULT & KLT.md",
+    "概念/操作系统/操作系统原理/线程/ULT & KLT.md",
+    "概念/操作系统/操作系统原理/进程/UM & KM.md",
+    "概念/操作系统/操作系统原理/杂记--小问题/能不能根据“当前运行的是 ULT 还是 KLT”判断 CPU 在用户态还是内核态？.md",
+    "概念/操作系统/操作系统原理/中断/中断向量表IDT.md",
+    "概念/操作系统/操作系统原理/OS总览.canvas",
+    "图片/Pasted image 20251215200829.png",
+    "计算机操作系统.md",
+    "操作系统概念（原书第9版） ( etc.) (Z-Library).pdf",
+    "概念/操作系统/操作系统原理/进程/结构.md",
+    "概念/操作系统/操作系统原理/进程/进程的控制.md",
+    "概念/操作系统/操作系统原理/进程/子进程与父进程.md",
+    "概念/操作系统/操作系统原理/线程/结构.md",
+    "未命名.md",
+    "概念/操作系统/操作系统原理/中断/缺页中断.md",
+    "概念/操作系统/操作系统原理/线程/基本概念.md",
+    "概念/操作系统/操作系统原理/进程/进程通信IPC.md",
+    "概念/操作系统/操作系统原理/概述/访管指令.md",
+    "概念/操作系统/操作系统原理/进程/互斥&同步.md",
+    "图片/Pasted image 20251214220741.png",
+    "概念/操作系统/操作系统原理/中断/pwd",
+    "图片/Pasted image 20251213193802.png",
+    "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf",
+    "2025年王道计算机网络考研复习指导 (--) (Z-Library).pdf",
     "概念/计算机网络/基本概念/运输层/TCP/数据传输方式",
     "概念/计算机网络/基本概念/运输层/TCP/握手与挥手",
     "概念/计算机网络/基本概念/运输层/TCP/拥塞控制",
     "概念/计算机网络/基本概念/运输层/TCP",
     "概念/计算机网络/基本概念/运输层/TCP/可靠传输",
-    "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf",
-    "操作系统概念（原书第9版） ( etc.) (Z-Library).pdf",
     "计划/2025.9/Pasted image 20251105183508.png",
-    "Java核心技术·卷 I（原书第11版）  基础知识 (Cay S.Horstmann) (Z-Library).pdf",
     "图片/Pasted image 20251210171812.png",
     "概念/计算机网络/基本概念/应用层/应用层协议/Pasted image 20251126090214.png",
-    "鸟哥的Linux私房菜 基础学习篇 第四版 (鸟哥) (Z-Library).pdf",
     "图片/Pasted image 20251208085757.png",
     "图片/Pasted image 20251207183028.png",
     "图片/Pasted image 20251207182855.png",
-    "图片/Pasted image 20251207182543.png",
-    "图片/Pasted image 20251207182516.png",
-    "图片/Pasted image 20251207182454.png",
-    "图片/Pasted image 20251203183434.png",
-    "未命名.canvas"
+    "图片/Pasted image 20251207182543.png"
   ]
 }
