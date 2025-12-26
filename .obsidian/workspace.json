@@ -4,90 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "b275e68fccf77238",
+        "id": "ee8b62befd227f3a",
         "type": "tabs",
-        "dimension": 62.20285261489698,
         "children": [
           {
-            "id": "9d78470e7d43f064",
+            "id": "c91443072d3feb4b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概念/操作系统/操作系统原理/调度与死锁/死锁.md",
+                "file": "日常小记/常用git命令.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "死锁"
+              "title": "常用git命令"
             }
           },
           {
-            "id": "6da76f0309c5ac39",
+            "id": "93450a1209cd7009",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "英语/外刊地址汇总.md",
+                "file": "概念/操作系统/操作系统原理/进程/基本概念.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "外刊地址汇总"
-            }
-          },
-          {
-            "id": "d708db87b1200cda",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "英语/2025.12.15.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025.12.15"
+              "title": "基本概念"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "f42b4f94f78398b0",
-        "type": "tabs",
-        "dimension": 37.79714738510302,
-        "children": [
-          {
-            "id": "eba948393af30862",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概念/操作系统/操作系统原理/线程/ULT & KLT.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ULT & KLT"
-            }
-          },
-          {
-            "id": "82875ca917377622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概念/操作系统/操作系统原理/进程/UM & KM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "UM & KM"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -119,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "CPU 状态寄存器",
+                "query": "ARP",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -144,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 229.5
+    "width": 264.5
   },
   "right": {
     "id": "3f280301191338bb",
@@ -153,7 +101,7 @@
       {
         "id": "6aa705245da954ef",
         "type": "tabs",
-        "dimension": 24.509803921568626,
+        "dimension": 24.50980392156863,
         "children": [
           {
             "id": "a3ba49f34f648141",
@@ -227,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/2025.12.15.md",
+                "file": "英语/2025.12.16.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025.12.15 的大纲"
+              "title": "2025.12.16 的大纲"
             }
           }
         ]
@@ -253,41 +201,42 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "bases:创建新数据库": false,
+      "system3-relay:Relay": false
     }
   },
-  "active": "d708db87b1200cda",
+  "active": "c91443072d3feb4b",
   "lastOpenFiles": [
-    "英语/2025.12.15.md",
-    "英语/外刊地址汇总.md",
-    "概念/操作系统/操作系统原理/线程/进程通信.md",
-    "英语/A single DNS race condition brought AWS to its knees.md",
+    "语法/JavaScript/React/事件绑定与组件.md",
+    "语法/JavaScript/React/开发环境.md",
+    "语法/JavaScript/React/组件基础样式.md",
+    "语法/JavaScript/React/JSX基础.md",
+    "概念/操作系统/linux/常用命令.md",
+    "概念/计算机网络/基本概念/OSI七层模型.md",
+    "英语/2025.12.18.md",
     "2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
-    "概念/操作系统/操作系统原理/调度与死锁/死锁.md",
+    "概念/操作系统/操作系统原理/进程/基本概念.md",
+    "概念/操作系统/操作系统原理/进程/进程的控制.md",
+    "未命名 1.md",
+    "概念/操作系统/操作系统原理/进程/结构.md",
+    "简历.md",
+    "未命名.md",
+    "概念/操作系统/操作系统原理/进程/进程通信IPC.md",
+    "概念/计算机网络/基本概念/网络层/IP/网际寻址.md",
+    "概念/计算机网络/基本概念/数据链路层/交换局域网/链路层寻址&ARP.md",
+    "计算机网络.md",
+    "概念/计算机网络/基本概念/网络层/IP/ABC类固定划分网络（分类编址）.md",
+    "计算机操作系统.md",
+    "概念/操作系统/操作系统原理/进程/不可再现性 & 可再现性.md",
+    "概念/操作系统/操作系统原理/进程/互斥&同步.md",
+    "概念/操作系统/操作系统原理/进程/子进程与父进程.md",
+    "概念/操作系统/操作系统原理/进程/UM & KM.md",
     "概念/操作系统/操作系统原理/调度与死锁/调度算法.md",
     "概念/操作系统/操作系统原理/调度与死锁/调度.md",
-    "概念/操作系统/操作系统原理/调度与死锁/作业.md",
-    "概念/操作系统/操作系统原理/线程/线程控制.md",
-    "概念/操作系统/操作系统原理/线程/线程栈保护.md",
-    "概念/操作系统/操作系统原理/线程/线程库ULT & KLT.md",
-    "概念/操作系统/操作系统原理/线程/ULT & KLT.md",
-    "概念/操作系统/操作系统原理/进程/UM & KM.md",
-    "概念/操作系统/操作系统原理/杂记--小问题/能不能根据“当前运行的是 ULT 还是 KLT”判断 CPU 在用户态还是内核态？.md",
-    "概念/操作系统/操作系统原理/中断/中断向量表IDT.md",
+    "概念/操作系统/操作系统原理/概述/分时&实时操作系统.md",
     "概念/操作系统/操作系统原理/OS总览.canvas",
     "图片/Pasted image 20251215200829.png",
-    "计算机操作系统.md",
     "操作系统概念（原书第9版） ( etc.) (Z-Library).pdf",
-    "概念/操作系统/操作系统原理/进程/结构.md",
-    "概念/操作系统/操作系统原理/进程/进程的控制.md",
-    "概念/操作系统/操作系统原理/进程/子进程与父进程.md",
-    "概念/操作系统/操作系统原理/线程/结构.md",
-    "未命名.md",
-    "概念/操作系统/操作系统原理/中断/缺页中断.md",
-    "概念/操作系统/操作系统原理/线程/基本概念.md",
-    "概念/操作系统/操作系统原理/进程/进程通信IPC.md",
-    "概念/操作系统/操作系统原理/概述/访管指令.md",
-    "概念/操作系统/操作系统原理/进程/互斥&同步.md",
     "图片/Pasted image 20251214220741.png",
     "概念/操作系统/操作系统原理/中断/pwd",
     "图片/Pasted image 20251213193802.png",
