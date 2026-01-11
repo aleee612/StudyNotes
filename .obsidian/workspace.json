@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ee8b62befd227f3a",
+        "id": "08d378ca9ff56b9d",
         "type": "tabs",
         "children": [
           {
-            "id": "c91443072d3feb4b",
+            "id": "d0767e8b28d0ffd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日常小记/常用git命令.md",
+                "file": "共享文件/梁李璇/概念/计算机网络/基本概念/OSI七层模型.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "常用git命令"
-            }
-          },
-          {
-            "id": "93450a1209cd7009",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "概念/操作系统/操作系统原理/进程/基本概念.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "基本概念"
+              "title": "OSI七层模型"
             }
           }
         ]
@@ -67,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ARP",
+                "query": "ICMP",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -92,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 264.5
+    "width": 310.5
   },
   "right": {
     "id": "3f280301191338bb",
@@ -101,7 +87,7 @@
       {
         "id": "6aa705245da954ef",
         "type": "tabs",
-        "dimension": 24.50980392156863,
+        "dimension": 30.79754601226994,
         "children": [
           {
             "id": "a3ba49f34f648141",
@@ -167,7 +153,7 @@
       {
         "id": "28185300d05b8dee",
         "type": "tabs",
-        "dimension": 75.49019607843137,
+        "dimension": 69.20245398773007,
         "children": [
           {
             "id": "87a06188a445b495",
@@ -175,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "英语/2025.12.16.md",
+                "file": "共享文件/梁李璇/语法/Java/类&接口/语法糖缩写/内部类.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025.12.16 的大纲"
+              "title": "内部类 的大纲"
             }
           }
         ]
@@ -202,57 +188,60 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:创建新数据库": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "random-note:开始漫游笔记": false
     }
   },
-  "active": "c91443072d3feb4b",
+  "active": "d0767e8b28d0ffd0",
   "lastOpenFiles": [
-    "语法/JavaScript/React/事件绑定与组件.md",
-    "语法/JavaScript/React/开发环境.md",
-    "语法/JavaScript/React/组件基础样式.md",
-    "语法/JavaScript/React/JSX基础.md",
-    "概念/操作系统/linux/常用命令.md",
-    "概念/计算机网络/基本概念/OSI七层模型.md",
-    "英语/2025.12.18.md",
-    "2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
-    "概念/操作系统/操作系统原理/进程/基本概念.md",
-    "概念/操作系统/操作系统原理/进程/进程的控制.md",
-    "未命名 1.md",
-    "概念/操作系统/操作系统原理/进程/结构.md",
-    "简历.md",
-    "未命名.md",
-    "概念/操作系统/操作系统原理/进程/进程通信IPC.md",
-    "概念/计算机网络/基本概念/网络层/IP/网际寻址.md",
-    "概念/计算机网络/基本概念/数据链路层/交换局域网/链路层寻址&ARP.md",
-    "计算机网络.md",
-    "概念/计算机网络/基本概念/网络层/IP/ABC类固定划分网络（分类编址）.md",
-    "计算机操作系统.md",
-    "概念/操作系统/操作系统原理/进程/不可再现性 & 可再现性.md",
-    "概念/操作系统/操作系统原理/进程/互斥&同步.md",
-    "概念/操作系统/操作系统原理/进程/子进程与父进程.md",
-    "概念/操作系统/操作系统原理/进程/UM & KM.md",
-    "概念/操作系统/操作系统原理/调度与死锁/调度算法.md",
-    "概念/操作系统/操作系统原理/调度与死锁/调度.md",
-    "概念/操作系统/操作系统原理/概述/分时&实时操作系统.md",
-    "概念/操作系统/操作系统原理/OS总览.canvas",
-    "图片/Pasted image 20251215200829.png",
-    "操作系统概念（原书第9版） ( etc.) (Z-Library).pdf",
-    "图片/Pasted image 20251214220741.png",
-    "概念/操作系统/操作系统原理/中断/pwd",
-    "图片/Pasted image 20251213193802.png",
-    "计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf",
-    "2025年王道计算机网络考研复习指导 (--) (Z-Library).pdf",
-    "概念/计算机网络/基本概念/运输层/TCP/数据传输方式",
-    "概念/计算机网络/基本概念/运输层/TCP/握手与挥手",
-    "概念/计算机网络/基本概念/运输层/TCP/拥塞控制",
-    "概念/计算机网络/基本概念/运输层/TCP",
-    "概念/计算机网络/基本概念/运输层/TCP/可靠传输",
-    "计划/2025.9/Pasted image 20251105183508.png",
-    "图片/Pasted image 20251210171812.png",
-    "概念/计算机网络/基本概念/应用层/应用层协议/Pasted image 20251126090214.png",
-    "图片/Pasted image 20251208085757.png",
-    "图片/Pasted image 20251207183028.png",
-    "图片/Pasted image 20251207182855.png",
-    "图片/Pasted image 20251207182543.png"
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/中断/中断.md",
+    "共享文件/姜泽旭/八股/AIAGent面试.md",
+    "共享文件/梁李璇/概念/算法系列/扩展算法/二分.md",
+    "共享文件/梁李璇/概念/算法系列/扩展算法/dfs与bfs.md",
+    "共享文件/梁李璇/概念/算法系列/时间复杂度.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/线程/线程控制.md",
+    "共享文件/梁李璇/概念/计算机组成原理/多处理机系统.md",
+    "共享文件/梁李璇/pdf/408/2025年王道计算机网络考研复习指导 (--) (Z-Library).pdf",
+    "共享文件/梁李璇/pdf/408/计算机组成与设计 硬件软件接口 MIPS版 原书第6版 (David A.Patterson, John L.Hennessy) (Z-Library).pdf",
+    "共享文件/梁李璇/概念/算法系列/数据结构/线性表/链表.md",
+    "共享文件/梁李璇/pdf/408/深入理解计算机系统 = Computer systems  a programmers perspective (Randal E. Bryant, David OHallaron zhu, 龚奕利 etc.) (Z-Library).pdf",
+    "共享文件/梁李璇/pdf/408/2024年408计算机专业基础综合真题+答案.pdf",
+    "共享文件/梁李璇/pdf/408/2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
+    "共享文件/梁李璇/概念/算法系列/数据结构/线性表/顺序存储.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/线程/线程库ULT & KLT.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/线程/基本概念.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/线程/ULT & KLT.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/线程/多线程模型.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/线程/线程通信.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/线程/线程栈保护.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/调度与死锁/调度.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/概述/原理.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/OS总览.canvas",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/线程/结构.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/进程/进程通信IPC.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/进程/结构.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/进程/并发与并行.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/进程/UM & KM.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/进程/互斥&同步.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/内存管理/内存管理单元MMU.md",
+    "共享文件/姜泽旭/视频项目",
+    "共享文件/姜泽旭/ai项目",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/中断/缺页中断.md",
+    "共享文件/梁李璇/概念/操作系统/操作系统原理/调度与死锁/死锁.md",
+    "共享文件/梁李璇/英语/The Magic Finger (Dahl Roald) (Z-Library).pdf",
+    "共享文件/Pasted image 20251230174842.png",
+    "共享文件/梁李璇/英语/Charlie and the Chocolate Factory (Roald Dahl) (Z-Library).pdf",
+    "共享文件/梁李璇/英语/Charlie and the Chocolate Factory (Roald Dahl) (Z-Library).epub",
+    "共享文件/梁李璇/图片/Pasted image 20260107220906.png",
+    "共享文件/梁李璇/项目管理&备赛备考/考研/计网/Pasted image 20251124205322.png",
+    "共享文件/梁李璇/图片/Pasted image 20251215200829.png",
+    "共享文件/梁李璇/图片/Pasted image 20251214220741.png",
+    "共享文件/梁李璇/图片/Pasted image 20251213193802.png",
+    "共享文件/梁李璇/图片/Pasted image 20251210171812.png",
+    "共享文件/梁李璇/图片/Pasted image 20251208085757.png",
+    "共享文件/梁李璇/图片/Pasted image 20251207183028.png",
+    "共享文件/梁李璇/图片/Pasted image 20251207182855.png",
+    "共享文件/梁李璇/Obsidian Vault - 副本/概念/操作系统/操作系统原理/OS总览.canvas",
+    "概念/操作系统/操作系统原理/OS总览.canvas"
   ]
 }

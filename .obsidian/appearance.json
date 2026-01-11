@@ -1,3 +1,5 @@
 {
-  "cssTheme": "theme"
+  "cssTheme": "theme",
+  "baseFontSize": 20,
+  "baseFontSizeAction": true
 }
