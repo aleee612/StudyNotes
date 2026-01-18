@@ -1,5 +1,6 @@
 {
-  "cssTheme": "theme",
-  "baseFontSize": 20,
-  "baseFontSizeAction": true
+  "cssTheme": "Blue Topaz",
+  "baseFontSize": 22,
+  "baseFontSizeAction": true,
+  "theme": "obsidian"
 }
