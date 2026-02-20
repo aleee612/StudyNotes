@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f85135089f444aa8",
+        "id": "e9cb06d2edc7a7c7",
         "type": "tabs",
         "children": [
           {
-            "id": "21a70e0159ddcc5f",
+            "id": "de960c13516b9a39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目管理&备赛备考/考研/计网/通信概念.md",
+                "file": "项目管理&备赛备考/考研/计网/流量控制.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "通信概念"
+              "title": "流量控制"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5026054382324
+    "width": 269.5026054382324
   },
   "right": {
     "id": "3f280301191338bb",
@@ -161,20 +161,21 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目管理&备赛备考/考研/计网/通信概念.md",
+                "file": "共享文件/看书/梁李璇.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "通信概念 的大纲"
+              "title": "梁李璇 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 256.5
+    "width": 242.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,54 +192,54 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "53eeedd2796567c2",
+  "active": "de960c13516b9a39",
   "lastOpenFiles": [
-    "git",
-    "项目管理&备赛备考/考研/计组/内存.md",
-    "项目管理&备赛备考/考研/计网/通信概念.md",
-    "项目管理&备赛备考/考研/计网/域名系统DNS-练习.md",
-    "图片/Pasted image 20260201170340.png",
-    "图片/Pasted image 20260201164551.png",
-    "项目管理&备赛备考/考研/计组/存储系统.md",
-    "项目管理&备赛备考/考研/计组/整数表示.md",
-    "图片/Pasted image 20260130193926.png",
-    "图片/Pasted image 20260130193714.png",
-    "项目管理&备赛备考/考研/计组/Pasted image 20260130193902.png",
-    "图片/Pasted image 20260130190216.png",
-    "图片/Pasted image 20260130185303.png",
-    "项目管理&备赛备考/考研/计组/Pasted image 20260130193726.png",
-    "项目管理&备赛备考/考研/计组/Pasted image 20260130193741.png",
-    "项目管理&备赛备考/考研/计组/Pasted image 20260130193542.png",
-    "项目管理&备赛备考/考研/计组/类型转换.md",
-    "项目管理&备赛备考/考研/计组/运算电路.md",
-    "概念/计算机网络/基本概念/应用层/应用层协议/NFS.md",
-    "项目管理&备赛备考/考研/OS/同步和互斥.md",
+    "概念/计算机网络/基本概念/网络层/因特网控制报文协议ICMP.md",
+    "概念/计算机网络/基本概念/数据链路层/交换局域网/链路层交换机.md",
+    "概念/计算机网络/基本概念/数据链路层/码分多址CDMA.md",
+    "概念/计算机网络/基本概念/数据链路层/CSMA.md",
+    "概念/计算机网络/基本概念/OSI七层模型.md",
+    "项目管理&备赛备考/考研/计网/流量控制.md",
+    "项目管理&备赛备考/考研/OS/文件.md",
+    "图片/Pasted image 20260214192830.png",
+    "项目管理&备赛备考/考研/OS/虚拟内存管理.md",
     "共享文件/看书/梁李璇.md",
-    "英语/Charlie and the Chocolate Factory (Roald Dahl) (Z-Library).pdf",
-    "共享文件/看书/3492cad2acc4a9ba0a173bd7d1b062d2.epub",
+    "英语/Magic Tree House 1 - Dinosaurs Before Dark (Mary Pope Osborne) (z-library.sk, 1lib.sk, z-lib.sk).epub",
     "共享文件/英语.md",
-    "项目管理&备赛备考/考研/数据结构/线性数据结构.md",
+    "项目管理&备赛备考/考研/数据结构/栈和队列的应用.md",
+    "图片/Pasted image 20260211193922.png",
     "项目管理&备赛备考/考研/数据结构/线性表.md",
     "项目管理&备赛备考/考研/数据结构/算法.md",
-    "项目管理&备赛备考/考研/计组/浮点数表示.md",
-    "项目管理&备赛备考/考研/计组/性能指标.md",
-    "项目管理&备赛备考/考研/计组/计算机层次结构.md",
-    "项目管理&备赛备考/考研/OS/处理机调度.md",
-    "项目管理&备赛备考/考研/计网/通信基础.md",
-    "项目管理&备赛备考/考研/OS/操作系统概念.md",
-    "项目管理&备赛备考/软考/软件工程/过程模型.md",
-    "项目管理&备赛备考/软考/软件工程/白盒测试.md",
-    "项目管理&备赛备考/软考/计算机基础/码距.md",
-    "项目管理&备赛备考/软考/计算机基础/校验码.md",
-    "项目管理&备赛备考/软考/计算机基础/数据表示.md",
-    "项目管理&备赛备考/个人博客/日志记录/问题清单&解决方案",
-    "项目管理&备赛备考/考研/计网",
-    "项目管理&备赛备考/考研/数据结构",
-    "项目管理&备赛备考/考研/计组",
-    "项目管理&备赛备考/考研/OS",
-    "项目管理&备赛备考/软考/软件工程",
-    "项目管理&备赛备考/软考/计算机基础",
-    "项目管理&备赛备考/软考/下午题",
+    "项目管理&备赛备考/考研/计组/外存.md",
+    "项目管理&备赛备考/考研/计组/内存.md",
+    "项目管理&备赛备考/考研/计组/存储系统.md",
+    "共享文件/看书/姜泽旭.md",
+    "项目管理&备赛备考/考研/计网/交换方式.md",
+    "概念/操作系统/操作系统原理/内存管理/页置换算法.md",
+    "pdf/408/计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf",
+    "图片/Pasted image 20260210190635.png",
+    "概念/操作系统/操作系统原理/内存管理/通用存储.md",
+    "概念/操作系统/操作系统原理/内存管理/无存储器抽象.md",
+    "概念/操作系统/操作系统原理/内存管理/基本硬件.md",
+    "概念/操作系统/操作系统原理/内存管理/地址绑定.md",
+    "概念/操作系统/操作系统原理/内存管理/分页.md",
+    "概念/操作系统/操作系统原理/内存管理/内存管理单元MMU.md",
+    "项目管理&备赛备考/考研/OS/内存管理概念.md",
+    "概念/算法系列/数据结构/线性表/链表",
+    "图片/Pasted image 20260210155119.png",
+    "概念/算法系列/扩展算法/模拟",
+    "英语/The Enormous Crocodile (Roald Dahl, Quentin Blake) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "英语/The Witches (Roald Dahl) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "图片/Pasted image 20260208205455.png",
+    "图片/Pasted image 20260208205438.png",
+    "图片/Pasted image 20260208200806.png",
+    "图片/Pasted image 20260208191849.png",
+    "图片/Pasted image 20260208190646.png",
+    "图片/Pasted image 20260206224619.png",
+    "英语/Charlie and the Chocolate Factory (Roald Dahl) (Z-Library).pdf",
+    "英语/Charlie and the Chocolate Factory (Roald Dahl) (Z-Library).epub",
+    "英语/The Magic Finger (Dahl Roald) (Z-Library).pdf",
+    "共享文件/看书/3492cad2acc4a9ba0a173bd7d1b062d2.epub",
     "概念/操作系统/操作系统原理/OS总览.canvas",
     "梁李璇/概念/操作系统/操作系统原理/OS总览.canvas",
     "共享文件/梁李璇/概念/操作系统/操作系统原理/OS总览.canvas",

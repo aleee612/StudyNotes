@@ -29,7 +29,7 @@
 		{"id":"51a1c83b3161c8d6","type":"text","text":"互斥与同步","x":-1179,"y":697,"width":138,"height":60,"color":"2"},
 		{"id":"054242c59e880db1","type":"text","text":"特征","x":-975,"y":671,"width":82,"height":60,"color":"2"},
 		{"id":"6a65539531c9c4f7","type":"text","text":"[[调度算法]]","x":-1179,"y":772,"width":113,"height":50,"color":"2"},
-		{"id":"fcee76d9c8af3a18","type":"text","text":"[[死锁]]","x":-1178,"y":833,"width":86,"height":54,"color":"2"},
+		{"id":"fcee76d9c8af3a18","type":"text","text":"[[概念/操作系统/操作系统原理/调度与死锁/死锁]]","x":-1178,"y":833,"width":86,"height":54,"color":"2"},
 		{"id":"0eb0d8b4df3e41b8","type":"text","text":"内存","x":-683,"y":490,"width":84,"height":50,"color":"1"},
 		{"id":"09edb90653f9ccde","type":"text","text":"管理方式","x":-909,"y":397,"width":116,"height":50,"color":"1"},
 		{"id":"f96609d61c89f3ca","type":"text","text":"虚拟内存","x":-1034,"y":218,"width":112,"height":50,"color":"1"},
