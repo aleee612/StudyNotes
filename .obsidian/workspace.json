@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e9cb06d2edc7a7c7",
+        "id": "3aac07d1c93fa979",
         "type": "tabs",
         "children": [
           {
-            "id": "de960c13516b9a39",
+            "id": "f60f177861dfa12d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目管理&备赛备考/考研/计网/流量控制.md",
+                "file": "共享文件/看书/梁李璇.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "流量控制"
+              "title": "梁李璇"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pretend",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": true,
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.5026054382324
+    "width": 269.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "3f280301191338bb",
@@ -192,39 +193,43 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "de960c13516b9a39",
+  "active": "f60f177861dfa12d",
   "lastOpenFiles": [
-    "概念/计算机网络/基本概念/网络层/因特网控制报文协议ICMP.md",
-    "概念/计算机网络/基本概念/数据链路层/交换局域网/链路层交换机.md",
-    "概念/计算机网络/基本概念/数据链路层/码分多址CDMA.md",
-    "概念/计算机网络/基本概念/数据链路层/CSMA.md",
-    "概念/计算机网络/基本概念/OSI七层模型.md",
-    "项目管理&备赛备考/考研/计网/流量控制.md",
-    "项目管理&备赛备考/考研/OS/文件.md",
-    "图片/Pasted image 20260214192830.png",
-    "项目管理&备赛备考/考研/OS/虚拟内存管理.md",
+    "英语/Magic Tree House Fact Tracker 2 Knights and Castles A Nonfiction Companion to Magic Tree House 2 The Knight at Dawn (A… (Mary Pope Osborne  Sal Murdocca [Osborne etc.) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "共享文件/看书/梁李璇.md",
     "英语/Magic Tree House 1 - Dinosaurs Before Dark (Mary Pope Osborne) (z-library.sk, 1lib.sk, z-lib.sk).epub",
-    "共享文件/英语.md",
+    "项目管理&备赛备考/考研/数据结构/数组和特殊矩阵.md",
     "项目管理&备赛备考/考研/数据结构/栈和队列的应用.md",
+    "项目管理&备赛备考/考研/计组/Cache.md",
+    "图片/Pasted image 20260225204245.png",
+    "图片/Pasted image 20260225204200.png",
+    "项目管理&备赛备考/考研/OS/虚拟内存管理.md",
+    "图片/Pasted image 20260225202930.png",
+    "项目管理&备赛备考/考研/OS/死锁.md",
+    "项目管理&备赛备考/考研/OS/同步和互斥.md",
+    "概念/操作系统/操作系统原理/线程/基本概念.md",
+    "概念/操作系统/操作系统原理/进程/进程通信IPC.md",
+    "概念/操作系统/操作系统原理/进程/进程的控制.md",
+    "概念/操作系统/操作系统原理/进程/结构.md",
+    "概念/操作系统/操作系统原理/进程/并发与并行.md",
+    "项目管理&备赛备考/考研/OS/操作系统概念.md",
+    "概念/操作系统/操作系统原理/进程/基本概念.md",
+    "概念/算法系列/数据结构/排序/堆排序.md",
+    "概念/算法系列/数据结构/树/二叉树.md",
+    "概念/算法系列/数据结构/排序/桶排序.md",
+    "概念/算法系列/数据结构/树/森林.md",
+    "概念/算法系列/数据结构/树/哈夫曼树.md",
+    "概念/算法系列/数据结构/树/完全二叉树.md",
+    "项目管理&备赛备考/考研/计网/介质访问控制.md",
+    "项目管理&备赛备考/考研/计网/通信概念.md",
+    "项目管理&备赛备考/考研/计组/运算电路.md",
+    "概念/计算机网络/基本概念/数据链路层/CSMA.md",
+    "概念/计算机网络/基本概念/运输层/TCP/拥塞控制/超时与重传.md",
+    "图片/Pasted image 20260224160348.png",
+    "图片/Pasted image 20260214192830.png",
     "图片/Pasted image 20260211193922.png",
-    "项目管理&备赛备考/考研/数据结构/线性表.md",
-    "项目管理&备赛备考/考研/数据结构/算法.md",
-    "项目管理&备赛备考/考研/计组/外存.md",
-    "项目管理&备赛备考/考研/计组/内存.md",
-    "项目管理&备赛备考/考研/计组/存储系统.md",
-    "共享文件/看书/姜泽旭.md",
-    "项目管理&备赛备考/考研/计网/交换方式.md",
-    "概念/操作系统/操作系统原理/内存管理/页置换算法.md",
     "pdf/408/计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf",
     "图片/Pasted image 20260210190635.png",
-    "概念/操作系统/操作系统原理/内存管理/通用存储.md",
-    "概念/操作系统/操作系统原理/内存管理/无存储器抽象.md",
-    "概念/操作系统/操作系统原理/内存管理/基本硬件.md",
-    "概念/操作系统/操作系统原理/内存管理/地址绑定.md",
-    "概念/操作系统/操作系统原理/内存管理/分页.md",
-    "概念/操作系统/操作系统原理/内存管理/内存管理单元MMU.md",
-    "项目管理&备赛备考/考研/OS/内存管理概念.md",
     "概念/算法系列/数据结构/线性表/链表",
     "图片/Pasted image 20260210155119.png",
     "概念/算法系列/扩展算法/模拟",
@@ -232,14 +237,9 @@
     "英语/The Witches (Roald Dahl) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "图片/Pasted image 20260208205455.png",
     "图片/Pasted image 20260208205438.png",
-    "图片/Pasted image 20260208200806.png",
-    "图片/Pasted image 20260208191849.png",
-    "图片/Pasted image 20260208190646.png",
-    "图片/Pasted image 20260206224619.png",
     "英语/Charlie and the Chocolate Factory (Roald Dahl) (Z-Library).pdf",
     "英语/Charlie and the Chocolate Factory (Roald Dahl) (Z-Library).epub",
     "英语/The Magic Finger (Dahl Roald) (Z-Library).pdf",
-    "共享文件/看书/3492cad2acc4a9ba0a173bd7d1b062d2.epub",
     "概念/操作系统/操作系统原理/OS总览.canvas",
     "梁李璇/概念/操作系统/操作系统原理/OS总览.canvas",
     "共享文件/梁李璇/概念/操作系统/操作系统原理/OS总览.canvas",
