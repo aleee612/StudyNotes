@@ -1,6 +1,5 @@
 使用next数组记录最长公共子前缀
-
-```
+```cpp
 #include <iostream>
 #include <vector>
 #include <string>
