@@ -1,0 +1,39 @@
+{
+	"nodes":[
+		{"id":"800e624be2eaf924","type":"text","text":"计网","x":-125,"y":-30,"width":92,"height":60},
+		{"id":"4cf07069a8556ce5","type":"text","text":"物理","x":59,"y":-130,"width":95,"height":68},
+		{"id":"9a598c306c325808","type":"file","file":"项目管理&备赛备考/考研/计网/通信概念.md","x":263,"y":-523,"width":400,"height":400},
+		{"id":"98e42c0afaaed9de","type":"file","file":"项目管理&备赛备考/考研/计网/编码和调制.md","x":383,"y":-313,"width":400,"height":400},
+		{"id":"b865f0b5a0f2001d","x":308,"y":-75,"width":400,"height":400,"type":"file","file":"项目管理&备赛备考/考研/计网/交换方式.md"},
+		{"id":"a9288b703ee4aedb","x":380,"y":180,"width":400,"height":400,"type":"file","file":"项目管理&备赛备考/考研/计网/流量控制.md"},
+		{"id":"634cf7d95e81c073","x":-225,"y":-162,"width":138,"height":54,"type":"text","text":"数据链路"},
+		{"id":"44663f9e959829f7","x":-598,"y":-1394,"width":400,"height":400,"type":"file","file":"概念/计算机网络/基本概念/数据链路层/FDM & TDM.md"},
+		{"id":"44a9928328c24f58","x":-361,"y":-1445,"width":400,"height":400,"color":"1","type":"file","file":"概念/计算机网络/基本概念/数据链路层/CSMA.md"},
+		{"id":"65a85c1b41d05a79","x":-126,"y":-1381,"width":400,"height":400,"type":"file","file":"概念/计算机网络/基本概念/数据链路层/码分多址CDMA.md"},
+		{"id":"7097f3532eda76af","x":88,"y":-1445,"width":400,"height":400,"type":"file","file":"概念/计算机网络/基本概念/数据链路层/时隙ALOHA.md"},
+		{"id":"881ac9d653af402a","x":-678,"y":-619,"width":400,"height":400,"type":"file","file":"项目管理&备赛备考/考研/计网/局域网和广域网.md"},
+		{"id":"c4d8ed9681fd1146","x":-356,"y":-404,"width":401,"height":129,"type":"file","file":"项目管理&备赛备考/考研/计网/介质访问控制.md"},
+		{"id":"5b7ae40477b7c0d7","x":-356,"y":-858,"width":400,"height":400,"type":"file","file":"概念/计算机网络/基本概念/数据链路层/多路访问链路和协议.md"},
+		{"id":"ad0313e150a49cfd","x":-352,"y":-15,"width":87,"height":52,"type":"text","text":"网络"},
+		{"id":"b8a39a833cda17f6","x":-25,"y":128,"width":90,"height":64,"type":"text","text":"应用"},
+		{"id":"2e0c8253cdb218b6","x":-264,"y":133,"width":85,"height":58,"type":"text","text":"运输"}
+	],
+	"edges":[
+		{"id":"ff365ec3f7b25455","fromNode":"800e624be2eaf924","fromSide":"right","toNode":"4cf07069a8556ce5","toSide":"left"},
+		{"id":"ee621e562a0a51da","fromNode":"4cf07069a8556ce5","fromSide":"right","toNode":"9a598c306c325808","toSide":"left"},
+		{"id":"c636469d31e3d958","fromNode":"4cf07069a8556ce5","fromSide":"right","toNode":"98e42c0afaaed9de","toSide":"left"},
+		{"id":"58c6b630b9c7da62","fromNode":"4cf07069a8556ce5","fromSide":"right","toNode":"b865f0b5a0f2001d","toSide":"left"},
+		{"id":"4e57012fb7443e4c","fromNode":"4cf07069a8556ce5","fromSide":"right","toNode":"a9288b703ee4aedb","toSide":"left"},
+		{"id":"5993cc6322037e74","fromNode":"800e624be2eaf924","fromSide":"top","toNode":"634cf7d95e81c073","toSide":"bottom"},
+		{"id":"39e6613c1f0704a9","fromNode":"634cf7d95e81c073","fromSide":"top","toNode":"c4d8ed9681fd1146","toSide":"bottom"},
+		{"id":"6f766d3ed970a85f","fromNode":"c4d8ed9681fd1146","fromSide":"top","toNode":"5b7ae40477b7c0d7","toSide":"bottom"},
+		{"id":"5baf029020107fb3","fromNode":"5b7ae40477b7c0d7","fromSide":"top","toNode":"44663f9e959829f7","toSide":"bottom"},
+		{"id":"c43939443432de6a","fromNode":"5b7ae40477b7c0d7","fromSide":"top","toNode":"44a9928328c24f58","toSide":"bottom"},
+		{"id":"8f1a9231e6fc7fd3","fromNode":"5b7ae40477b7c0d7","fromSide":"top","toNode":"65a85c1b41d05a79","toSide":"bottom"},
+		{"id":"68da52b02469889f","fromNode":"5b7ae40477b7c0d7","fromSide":"top","toNode":"7097f3532eda76af","toSide":"bottom"},
+		{"id":"2718f7b0b698998c","fromNode":"634cf7d95e81c073","fromSide":"top","toNode":"881ac9d653af402a","toSide":"bottom"},
+		{"id":"4a9484c9bafdd9f3","fromNode":"800e624be2eaf924","fromSide":"left","toNode":"ad0313e150a49cfd","toSide":"right"},
+		{"id":"6970d2f100b933e2","fromNode":"800e624be2eaf924","fromSide":"bottom","toNode":"b8a39a833cda17f6","toSide":"top"},
+		{"id":"d62bb6688cffddde","fromNode":"800e624be2eaf924","fromSide":"bottom","toNode":"2e0c8253cdb218b6","toSide":"right"}
+	]
+}
