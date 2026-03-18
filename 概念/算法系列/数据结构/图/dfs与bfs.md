@@ -1,10 +1,8 @@
 [P1036 [NOIP 2002 普及组] 选数 - 洛谷](https://www.luogu.com.cn/problem/P1036)
 [P10386 [蓝桥杯 2024 省 A] 五子棋对弈 - 洛谷](https://www.luogu.com.cn/problem/P10386)（?）
-# dfs：深度优先
-
+### dfs：深度优先
 一般来说是利用递归
-
-```c++
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -49,22 +47,14 @@ int main() {
     return 0;
 }
 ```
-
 - 通过adj模拟图中的各个关系
-
 - 通过递归就能够遍历过所有的相邻节点
-
 - 如果该节点已经走过（标记为true）则不再访问
-
-## 例题部分
-
+#### 例题部分
 1. 子数组和最大问题
-
 ![](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173168-38cef789-6542-432b-b18a-e9556b36a141.png "null")
-
 ![](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173282-0ffd1980-e63d-4fe1-a345-2472874be474.png "null")
-
-```c++
+```cpp
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -105,18 +95,11 @@ int main() {
     return 0;
 }
 ```
-
 重点：`dp[i] = max(arr[i] + dfs(arr, i + 1, dp), dfs(arr, i + 1, dp));`
-
----
-
-# bfs：广（宽）度优先
-
+### bfs：广（宽）度优先
 p1451
-
 ![](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173375-6e3d93cf-0943-461d-a803-e54c26616090.png "null")
-
-```c++
+```cpp
 #include<iostream>
 using namespace std;
 struct zuobiao{
@@ -175,3 +158,4 @@ int main()
     cout<<ans;
 }
 ```
+### 洪水填充
