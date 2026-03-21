@@ -4,21 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "63a8a86e6c3ee056",
+        "id": "c38d2138e1ef1a86",
         "type": "tabs",
         "children": [
           {
-            "id": "914c8076ddfa9008",
+            "id": "cda71095aa1c074a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "项目管理&备赛备考/考研/数一/高数/极限.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/408/2027年计算机网络考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
-              "icon": "lucide-file",
-              "title": "极限"
+              "icon": "lucide-file-text",
+              "title": "2027年计算机网络考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk)"
             }
           }
         ]
@@ -53,10 +51,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wrinkle",
+                "query": "marmalade",
                 "matchingCase": false,
                 "explainSearch": true,
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -78,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 200
   },
   "right": {
     "id": "3f280301191338bb",
@@ -192,28 +190,41 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "914c8076ddfa9008",
+  "active": "cda71095aa1c074a",
   "lastOpenFiles": [
-    "概念/算法系列/数据结构/图/拓扑排序.md",
     "项目管理&备赛备考/考研/数一/高数/极限.md",
+    "英语/Harry Potter (J.K. Rowling) (z-library.sk, 1lib.sk, z-lib.sk).epub",
+    "共享文件/看书/梁李璇.md",
+    "概念/算法系列/数据结构/树/前缀树.md",
+    "概念/算法系列/数据结构/树/并查集→最小生成树.md",
+    "概念/算法系列/数据结构/队列/队列.md",
+    "概念/算法系列/数据结构/队列/单调队列.md",
+    "概念/算法系列/数据结构/队列/双端队列.md",
+    "概念/算法系列/数据结构/队列/优先队列.md",
+    "概念/算法系列/数据结构/图/图的表示.md",
+    "概念/算法系列/数据结构/图/拓扑排序.md",
+    "图片/Pasted image 20260319141611.png",
+    "图片/Pasted image 20260319141559.png",
+    "项目管理&备赛备考/考研/计组/浮点数表示.md",
+    "项目管理&备赛备考/考研/计组/整数表示.md",
+    "项目管理&备赛备考/考研/计组/控制器.md",
+    "pdf/408/2026年计算机组成原理考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf/408/2024年408计算机专业基础综合真题+答案.pdf",
+    "pdf/408/2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
+    "pdf/408/2025王道数据结构考研复习指导 (王道论坛) (Z-Library).pdf",
+    "pdf/408/2027年计算机网络考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "项目管理&备赛备考/考研/数一/高数",
     "项目管理&备赛备考/考研/数一",
-    "概念/算法系列/数据结构/图/图的表示.md",
     "pdf/408/2025年王道计算机网络考研复习指导 (--) (Z-Library).pdf",
     "项目管理&备赛备考/考研/计网/交换方式.md",
     "项目管理&备赛备考/考研/计网/通信概念.md",
-    "pdf/408/2024年408计算机专业基础综合真题+答案.pdf",
     "项目管理&备赛备考/考研/计网/编码和调制.md",
     "项目管理&备赛备考/考研/计网/IP.md",
     "项目管理&备赛备考/考研/计网/思维导图.canvas",
     "项目管理&备赛备考/个人博客/介质访问控制与算法.md",
-    "共享文件/看书/梁李璇.md",
-    "英语/Harry Potter (J.K. Rowling) (z-library.sk, 1lib.sk, z-lib.sk).epub",
-    "项目管理&备赛备考/考研/计组/控制器.md",
     "项目管理&备赛备考/考研/计组/CPU功能和结构.md",
     "图片/Pasted image 20260317155639.png",
     "图片/Pasted image 20260317155623.png",
-    "概念/算法系列/数据结构/队列/单调队列.md",
     "图片/Pasted image 20260316175129.png",
     "图片/Pasted image 20260316163325.png",
     "项目管理&备赛备考/考研/计网/介质访问控制.md",
@@ -225,23 +236,9 @@
     "项目管理&备赛备考/考研/计网/流量控制.md",
     "概念/计算机网络/基本概念/应用层/应用层协议/NFS.md",
     "概念/计算机网络/基本概念/运输层/运输服务（协议）.md",
-    "概念/计算机网络/基本概念/运输层/UDP校验和.md",
-    "概念/计算机网络/基本概念/运输层/端口号.md",
-    "概念/计算机网络/基本概念/运输层/端到端原则.md",
-    "概念/计算机网络/基本概念/运输层/套接字.md",
-    "概念/计算机网络/基本概念/运输层/多路复用与多路分解.md",
-    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/TCP 6bit 标志位.md",
-    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/TCP报文段结构.md",
-    "概念/计算机网络/基本概念/运输层/TCP/TCP结构/序号和确认号.md",
     "共享文件/看书/3492cad2acc4a9ba0a173bd7d1b062d2.epub",
-    "概念/算法系列/数据结构/线性表/字符串",
     "图片/Pasted image 20260315134708.png",
-    "图片/Pasted image 20260314142805.png",
-    "图片/Pasted image 20260313184305.png",
     "项目管理&备赛备考/考研/OS/思维导图.canvas",
-    "pdf/数学建模算法与应用第3版 (司守奎,孙玺菁) (Z-Library).pdf",
-    "pdf/Java核心技术·卷 I（原书第11版）  基础知识 (Cay S.Horstmann) (Z-Library).pdf",
-    "pdf/408/2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
     "项目管理&备赛备考/考研/计组/思维导图.canvas",
     "未命名.canvas",
     "概念/操作系统/操作系统原理/OS总览.canvas",
