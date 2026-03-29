@@ -1,5 +1,5 @@
 ### cpp STL
-```cpp
+```cpp fold
 #include <iostream>
 #include <string>
 #include <algorithm>

@@ -1,12 +1,13 @@
 [
   "calendar",
   "obsidian-hover-editor",
-  "shiki-highlighter",
   "manual-sorting",
   "obsidian-enhancing-mindmap",
   "system3-relay",
   "obsidian-tasks-plugin",
   "todoist-sync-plugin",
   "obsidian-epub-plugin",
-  "canvas-mindmap"
+  "canvas-mindmap",
+  "fold-anywhere",
+  "codeblock-customizer"
 ]

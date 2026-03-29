@@ -2,7 +2,7 @@
 [P10386 [蓝桥杯 2024 省 A] 五子棋对弈 - 洛谷](https://www.luogu.com.cn/problem/P10386)（?）
 ### dfs：深度优先
 一般来说是利用递归
-```cpp
+```cpp fold
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -52,9 +52,9 @@ int main() {
 - 如果该节点已经走过（标记为true）则不再访问
 #### 例题部分
 1. 子数组和最大问题
-![](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173168-38cef789-6542-432b-b18a-e9556b36a141.png "null")
-![](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173282-0ffd1980-e63d-4fe1-a345-2472874be474.png "null")
-```cpp
+![496](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173168-38cef789-6542-432b-b18a-e9556b36a141.png "null")
+![496](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173282-0ffd1980-e63d-4fe1-a345-2472874be474.png "null")
+```cpp fold
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -103,8 +103,8 @@ int main() {
 3. 将当前队列中的元素出队列，该元素的后续元素入队列，直至 `count == 0` 
 4. 重复步骤 2, 3，直至整个图被遍历完或找到终点节点的层数
 ##### 洛谷 p1451
-![](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173375-6e3d93cf-0943-461d-a803-e54c26616090.png "null")
-```cpp
+![490](https://cdn.nlark.com/yuque/0/2025/png/55555653/1744542173375-6e3d93cf-0943-461d-a803-e54c26616090.png "null")
+```cpp fold
 #include<iostream>
 using namespace std;
 struct zuobiao{

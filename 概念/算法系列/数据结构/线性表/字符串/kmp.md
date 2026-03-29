@@ -1,5 +1,5 @@
 使用next数组记录最长公共子前缀
-```cpp
+```cpp fold
 #include <iostream>
 #include <vector>
 #include <string>
