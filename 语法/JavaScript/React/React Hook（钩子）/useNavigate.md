@@ -1,4 +1,4 @@
-```
+```js
 import { useNavigate } from "react-router-dom";//导入
 function Article(){
   const navigate = useNavigate();
@@ -11,3 +11,4 @@ function Article(){
 }
 export default Article;
 ```
+作用：跳转页面

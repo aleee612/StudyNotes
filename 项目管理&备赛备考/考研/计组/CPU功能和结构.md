@@ -17,12 +17,12 @@
 #### 段寄存器
 > 用于指向程序运行时不同内存段的起始位置。
 
-|寄存器|含义|对应段|
-|---|---|---|
-|CS|Code Segment|代码段|
-|DS|Data Segment|数据段|
-|SS|Stack Segment|栈段|
-|ES|Extra Segment|附加段|
+| 寄存器 | 含义            | 对应段 |
+| --- | ------------- | --- |
+| CS  | Code Segment  | 代码段 |
+| DS  | Data Segment  | 数据段 |
+| SS  | Stack Segment | 栈段  |
+| ES  | Extra Segment | 附加段 |
 - 程序逻辑上通常包含四个段：
 	代码段：存放指令  
 	数据段：存放数据  

@@ -1,15 +1,12 @@
 - 集中状态管理工具，可以**独立**于框架运行
 - 作用：通过集中管理的方式管理应用的状态
-
 使用步骤：
-
 1. 定义一个reducer函数（根据当前想要做的修改返回一个新的状态）
 2. 使用createStore方法传入 reducer函数 生成一个store实例对象
 3. 使用store实例的 subscribe方法 订阅数据的变化（数据一旦变化，可以得到通知）
 4. 使用store实例的 dispatch方法 提交action对象 触发数据变化（告诉reducer你想怎么改数据）
 5. 使用store实例的 getState方法 ·最新的状态数据更新到视图中
-
-```
+```js
 <button id="decrement">-</button>
 <span id="count">0</span>
 <button id="increment">+</button>

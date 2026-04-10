@@ -1,20 +1,14 @@
 ### 一、确认你拿到了参数
-
 比如用 `useParams()` 拿到 `id`：
-
-```
+```js
 import { useParams } from 'react-router-dom';
 
 const { id } = useParams(); // 比如 id = '1234'
 ```
-
 ---
-
 ### 二、用 `fetch`（或者 `axios`）发请求到后端接口
-
 比如你的网站后端有接口 `/api/article/:id`，那么可以直接发请求：
-
-```
+```js
 import { useEffect, useState } from 'react';
 
 function ArticleDetail() {
@@ -43,14 +37,10 @@ function ArticleDetail() {
   );
 }
 ```
-
 ---
-
 ### 三、后端需要提供对应的接口
-
 比如你后端是 Node.js + Express，可能就会有个路由：
-
-```
+```js
 app.get('/api/article/:id', (req, res) => {
   const id = req.params.id;
   // 假设查数据库
@@ -58,7 +48,6 @@ app.get('/api/article/:id', (req, res) => {
   res.json(article);
 });
 ```
-
 这样前端一发请求，后端拿到id，查完数据，再把数据返回给前端渲染。
 
 ---
