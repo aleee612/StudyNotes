@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d7e3e5c2d1dc844c",
+        "id": "047fe62ad6f7de29",
         "type": "tabs",
         "children": [
           {
-            "id": "47fe4fc58542ae2c",
+            "id": "802775b6ab74006f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目管理&备赛备考/考研/计组/考点难点.md",
+                "file": "日记？/2026-04-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "考点难点"
+              "title": "2026-04-13"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "规格化",
+                "query": "行列复用",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       {
         "id": "6aa705245da954ef",
         "type": "tabs",
-        "dimension": 30.79754601226994,
+        "dimension": 34.689922480620154,
         "children": [
           {
             "id": "a3ba49f34f648141",
@@ -143,17 +143,17 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "28185300d05b8dee",
         "type": "tabs",
-        "dimension": 69.20245398773007,
+        "dimension": 65.31007751937985,
         "children": [
           {
             "id": "87a06188a445b495",
@@ -161,21 +161,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目管理&备赛备考/个人博客/介质访问控制与算法.md",
+                "file": "日记？/2026-04-13.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "介质访问控制与算法 的大纲"
+              "title": "2026-04-13 的大纲"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 242.5,
-    "collapsed": true
+    "width": 273.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,45 +191,48 @@
       "system3-relay:Relay": false
     }
   },
-  "active": "47fe4fc58542ae2c",
+  "active": "802775b6ab74006f",
   "lastOpenFiles": [
-    "授课/STL/常见函数.md",
-    "项目管理&备赛备考/考研/计组/考点难点.md",
-    "pdf/408/2026年计算机组成原理考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "pdf/408/2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "pdf/408/2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "pdf/408/2027王道《计算机组成原理》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "项目管理&备赛备考/考研/计组/浮点数表示.md",
-    "pdf/408/2024年408计算机专业基础综合真题+答案.pdf",
-    "pdf/408/2027年计算机网络考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "概念/算法系列/数据结构/图/dfs与bfs.md",
-    "概念/算法系列/数据结构/图/图的表示.md",
+    "项目管理&备赛备考/考研/OS/同步和互斥.md",
+    "日记？/2026-04-13.md",
+    "日记？/未命名.md",
+    "日记？",
+    "日常小记/未命名.md",
+    "项目管理&备赛备考/考研/OS/考点难点.md",
+    "pdf/408/27/2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "项目管理&备赛备考/考研/计组/内存.md",
+    "pdf/408/27/2027王道《计算机组成原理》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf/408/《基础过关660》-高数篇(1).pdf",
+    "项目管理&备赛备考/考研/计组/存储系统.md",
+    "项目管理&备赛备考/考研/计组/未命名.md",
+    "项目管理&备赛备考/考研/计组/Pasted image 20260412214405.png",
+    "项目管理&备赛备考/考研/计组/Pasted image 20260412214403.png",
+    "项目管理&备赛备考/考研/计组/思维导图.canvas",
+    "项目管理&备赛备考/考研/OS/处理机调度.md",
+    "pdf/408/往届/2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
+    "pdf/408/往届/2026年计算机组成原理考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf/408/往届/2025王道数据结构考研复习指导 (王道论坛) (Z-Library).pdf",
+    "概念/算法系列/数据结构/排序/计数 & 基数.md",
+    "pdf/408/真题",
+    "pdf/408/往届",
+    "pdf/408/27",
+    "前端开发简历模板-简洁大方.md",
+    "概念/算法系列/数据结构/排序/排序总览.md",
+    "概念/算法系列/数据结构/排序/交换.md",
+    "概念/算法系列/数据结构/排序/归并.md",
+    "概念/算法系列/数据结构/队列/优先队列.md",
+    "概念/算法系列/数据结构/队列/队列.md",
+    "概念/算法系列/数据结构/队列/单调队列.md",
+    "概念/算法系列/数据结构/查找/散列哈希.md",
+    "概念/算法系列/数据结构/查找/二分.md",
+    "概念/算法系列/数据结构/查找/B-树 & B+树.md",
+    "概念/算法系列/扩展算法/质数筛法.md",
     "概念/算法系列/数据结构/图/拓扑排序.md",
-    "概念/算法系列/数据结构/图/A星，Floyd.md",
-    "概念/算法系列/扩展算法/动态规划/背包问题.md",
-    "概念/计算机网络/基本概念/网络层/IP/分配IP地址.md",
-    "概念/计算机网络/基本概念/运输层/端口号.md",
-    "概念/计算机网络/ensp/常用命令.md",
-    "概念/计算机网络/基本概念/网络层/路由器/SDN控制平面.md",
-    "概念/计算机网络/基本概念/网络层/路由器/MD5鉴别.md",
-    "概念/计算机网络/基本概念/网络层/路由器/HOL阻塞.md",
-    "概念/计算机网络/基本概念/网络层/路由器/链路状态算法LS.md",
-    "概念/计算机网络/基本概念/网络层/路由器/通用转发.md",
-    "概念/计算机网络/基本概念/网络层/路由器/边界网关协议BGP.md",
-    "概念/计算机网络/基本概念/网络层/路由器/路由选择算法.md",
-    "概念/计算机网络/基本概念/网络层/路由器/路由器.md",
-    "pdf/408/深入理解计算机系统 = Computer systems  a programmers perspective (Randal E. Bryant, David OHallaron zhu, 龚奕利 etc.) (Z-Library).pdf",
-    "pdf/408/2025王道数据结构考研复习指导 (王道论坛) (Z-Library).pdf",
-    "pdf/408/2025王道操作系统考研复习指导 (王道论坛) (Z-Library).pdf",
-    "语法/JavaScript/React/React Hook（钩子）/useState/useState.md",
-    "语法/JavaScript/React/React Hook（钩子）/useEffect/useEffect.md",
-    "语法/JavaScript/React/React Hook（钩子）/useEffect/async function getList().md",
-    "语法/ArkTs/考点复习.md",
-    "语法/ArkTs/数据库/键值型数据库.md",
-    "语法/ArkTs/前端部分/装饰器/应用级/AppStorage.md",
-    "语法/ArkTs/前端部分/开发布局/GridRow & GridCol.md",
+    "概念/算法系列/数据结构/图/图的表示.md",
+    "概念/算法系列/数据结构/图/记忆化搜索.md",
+    "概念/算法系列/数据结构/图/dfs与bfs.md",
+    "概念/算法系列/时间复杂度.md",
     "语法/JavaScript/React/React Hook（钩子）/useEffect/Pasted image 20260407161609.png",
-    "概念/算法系列/扩展算法/动态规划",
     "图片/Pasted image 20260325214223.png",
     "图片/Pasted image 20260325214142.png",
     "图片/Pasted image 20260325214117.png",
@@ -238,11 +240,8 @@
     "图片/Pasted image 20260325213957.png",
     "图片/Pasted image 20260325213821.png",
     "图片/Pasted image 20260319141611.png",
-    "图片/Pasted image 20260319141559.png",
     "项目管理&备赛备考/考研/计网/思维导图.canvas",
-    "图片/Pasted image 20260317155639.png",
     "项目管理&备赛备考/考研/OS/思维导图.canvas",
-    "项目管理&备赛备考/考研/计组/思维导图.canvas",
     "未命名.canvas",
     "概念/操作系统/操作系统原理/OS总览.canvas",
     "梁李璇/概念/操作系统/操作系统原理/OS总览.canvas",
