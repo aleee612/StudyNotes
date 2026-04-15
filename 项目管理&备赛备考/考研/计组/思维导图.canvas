@@ -10,7 +10,7 @@
 		{"id":"0fd3ca426ac5ef83","type":"file","file":"项目管理&备赛备考/考研/计组/性能指标.md","x":197,"y":-1181,"width":400,"height":400,"color":"1"},
 		{"id":"52a1c0bf0f2bbc53","type":"text","text":"概论","x":66,"y":-314,"width":92,"height":50},
 		{"id":"671323202e9d292b","type":"file","file":"项目管理&备赛备考/考研/计组/Cache.md","x":-1264,"y":-272,"width":400,"height":400,"color":"1"},
-		{"id":"c2a31764cd7ebe0f","type":"file","file":"项目管理&备赛备考/考研/计组/内存.md","x":-1228,"y":174,"width":361,"height":369},
+		{"id":"c2a31764cd7ebe0f","type":"file","file":"项目管理&备赛备考/考研/计组/多模块存储器：主存与CPU的连接.md","x":-1228,"y":174,"width":361,"height":369},
 		{"id":"cc638cd42b42827d","type":"file","file":"项目管理&备赛备考/考研/计组/外存.md","x":-988,"y":323,"width":320,"height":288},
 		{"id":"6723714ec13b3aea","type":"file","file":"项目管理&备赛备考/考研/计组/虚拟存储器.md","x":-1739,"y":161,"width":400,"height":400,"color":"1"},
 		{"id":"e5a9e07651ed6b4f","type":"text","text":"指令","x":-168,"y":184,"width":91,"height":58},

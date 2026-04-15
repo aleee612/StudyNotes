@@ -1,6 +1,7 @@
 {
   "cssTheme": "Osaka Jade",
-  "baseFontSize": 18,
+  "baseFontSize": 17,
   "baseFontSizeAction": true,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "accentColor": ""
 }

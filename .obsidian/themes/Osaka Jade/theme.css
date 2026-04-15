@@ -29,9 +29,9 @@
     --dragonBlue    : #75bbb3; /* magenta bright */
 
     /* Fg and Comments*/
-    --oldWhite      : #C1C497; /* foreground */
+    --oldWhite      : #9edb93; /* foreground */
     --fujiWhite     : #F7E8B2; /* main fg */
-    --fujiGray      : #D6D5BC; /* title */
+    --fujiGray      : #d6d5bc7c; /* title */
     --springViolet1 : #D2689C; /* magenta normal */
 
     --oniViolet     : #D2689C; /* magenta normal */
@@ -50,7 +50,7 @@
     --waveRed       : #FF5345; /* red normal */
     --peachRed      : #db9f9c; /* red bright */
     --surimiOrange  : #E67D64; /* hi fg */
-    --katanaGray    : #81B8A8; /* box outlines */
+    --katanaGray    : #81b8a936; /* box outlines */
 
     /* Gruvbox from https://github.com/insanum/obsidian_gruvbox */
     --dark0-hard:     #1d2021;
