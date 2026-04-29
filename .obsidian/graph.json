@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:概念/计算机网络  ",
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14701233
       }
+    },
+    {
+      "query": "path:姜  ",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 3.42515592515593,
   "linkStrength": 1,
   "linkDistance": 107,
-  "scale": 0.2264037757535967,
+  "scale": 0.2927619473801115,
   "close": true
 }
