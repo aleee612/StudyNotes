@@ -16,7 +16,7 @@
 		{"id":"3a8358e9497f1eac","x":-31,"y":-147,"width":88,"height":56,"type":"text","text":"I/O"},
 		{"id":"fa40ee35c0877ebd","x":3,"y":-751,"width":400,"height":400,"type":"file","file":"项目管理&备赛备考/考研/OS/IO设备.md"},
 		{"id":"47874cbc16d88ab0","x":223,"y":-691,"width":400,"height":400,"color":"2","type":"file","file":"项目管理&备赛备考/考研/OS/磁盘.md"},
-		{"id":"70316db78274adbe","x":73,"y":464,"width":400,"height":416,"color":"1","type":"file","file":"项目管理&备赛备考/考研/OS/同步和互斥.md"},
+		{"id":"70316db78274adbe","x":73,"y":464,"width":400,"height":416,"color":"1","type":"file","file":"概念/操作系统/操作系统原理/调度与死锁/同步和互斥.md"},
 		{"id":"2628ac96c638a5c1","x":503,"y":115,"width":400,"height":400,"color":"1","type":"file","file":"概念/操作系统/操作系统原理/进程/结构.md"},
 		{"id":"a9199918932a8854","x":969,"y":-37,"width":400,"height":400,"type":"file","file":"概念/操作系统/操作系统原理/进程/进程通信IPC.md"},
 		{"id":"6829cd27181bb073","x":1051,"y":186,"width":400,"height":400,"type":"file","file":"概念/操作系统/操作系统原理/进程/进程的控制.md"},
