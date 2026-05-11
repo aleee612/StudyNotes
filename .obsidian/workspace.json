@@ -6,6 +6,7 @@
       {
         "id": "196274bdede3c99d",
         "type": "tabs",
+        "dimension": 48.14241486068111,
         "children": [
           {
             "id": "8cb1caa6c775c747",
@@ -13,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目管理&备赛备考/考研/数一/高数/函数.md",
+                "file": "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/常见状态码及其短语.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "函数"
+              "title": "常见状态码及其短语"
             }
           }
         ]
@@ -26,19 +27,18 @@
       {
         "id": "c0442c0fbf1138db",
         "type": "tabs",
+        "dimension": 51.85758513931889,
         "children": [
           {
             "id": "cab59ac78a452b74",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "项目管理&备赛备考/考研/数一/高数/导数微分/导数.md",
-                "mode": "source",
-                "source": false
+                "file": "pdf/408/27/2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
               },
-              "icon": "lucide-file",
-              "title": "导数"
+              "icon": "lucide-file-text",
+              "title": "2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk)"
             }
           }
         ]
@@ -107,7 +107,7 @@
       {
         "id": "6aa705245da954ef",
         "type": "tabs",
-        "dimension": 34.689922480620154,
+        "dimension": 64.33823529411765,
         "children": [
           {
             "id": "a3ba49f34f648141",
@@ -167,12 +167,13 @@
               "title": "Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "28185300d05b8dee",
         "type": "tabs",
-        "dimension": 65.31007751937985,
+        "dimension": 35.661764705882355,
         "children": [
           {
             "id": "87a06188a445b495",
@@ -180,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "概念/计算机网络/基本概念/数据链路层/交换局域网/链路层交换机.md",
+                "file": "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/常见状态码及其短语.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "链路层交换机 的大纲"
+              "title": "常见状态码及其短语 的大纲"
             }
           }
         ]
@@ -208,59 +209,59 @@
       "workspaces:管理工作区布局": false,
       "publish:发布更改": false,
       "bases:新建数据库": false,
-      "system3-relay:Relay": false
+      "system3-relay:Relay": false,
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "cab59ac78a452b74",
+  "active": "53eeedd2796567c2",
   "lastOpenFiles": [
-    "项目管理&备赛备考/考研/数一/高数/极限/一些做极限的方法.md",
-    "项目管理&备赛备考/考研/数一/高数/导数微分/导数.md",
-    "项目管理&备赛备考/考研/数一/高数/函数.md",
-    "项目管理&备赛备考/考研/数一/高数/导数微分/简单函数导数.md",
-    "概念/计算机组成原理/存储/虚拟存储器.md",
-    "pdf/408/27/2027王道《计算机组成原理》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "概念/计算机组成原理/存储/Pasted image 20260509174545.png",
-    "项目管理&备赛备考/考研/计组/考点难点.md",
     "pdf/408/27/2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "概念/计算机组成原理/指令/数据对齐.md",
-    "概念/计算机组成原理/存储/寄存器.md",
-    "概念/计算机组成原理/存储/容量.md",
-    "项目管理&备赛备考/考研/OS/考点难点.md",
-    "项目管理&备赛备考/考研/计网/考点难点.md",
-    "概念/计算机组成原理/概述/性能指标.md",
-    "概念/计算机组成原理/存储/多模块存储器：主存与CPU的连接.md",
-    "概念/计算机组成原理/存储/Cache.md",
-    "概念/计算机组成原理/存储/外存.md",
-    "概念/计算机组成原理/存储/存储系统.md",
-    "概念/计算机组成原理/数据表示/浮点数表示.md",
-    "概念/计算机组成原理/数据表示/整数表示.md",
-    "概念/计算机组成原理/数据表示/运算电路.md",
-    "概念/计算机组成原理/数据表示/类型转换.md",
-    "项目管理&备赛备考/考研/计组/数据.md",
-    "概念/计算机组成原理/其他/程序计数器PC.md",
-    "项目管理&备赛备考/考研/计组/指令.md",
-    "概念/计算机组成原理/结构/磁盘控制器.md",
-    "概念/计算机组成原理/结构/基本结构.md",
-    "概念/计算机组成原理/结构/主存.md",
+    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/常见状态码及其短语.md",
+    "copilot/copilot-conversations/文档修改请求回应@20260511_163149.md",
+    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/往返时间（RTT）.md",
+    "概念/计算机网络/基本概念/运输层/套接字.md",
+    "copilot/copilot-conversations/文档修缮请求失败@20260511_154522.md",
+    "copilot/copilot-conversations",
+    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/Web缓存.md",
+    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/Web和HTTP.md",
+    "概念/计算机网络/基本概念/应用层/应用层协议/HTTP/Cookie.md",
+    "概念/计算机网络/基本概念/应用层/应用层协议/NFS.md",
+    "概念/计算机网络/基本概念/应用层/套接字编程.md",
+    "概念/操作系统/操作系统原理/文件管理/文件系统.md",
+    "copilot/copilot-custom-prompts/Clip Web Page.md",
+    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot/copilot-custom-prompts/Remove URLs.md",
+    "copilot/copilot-custom-prompts/Generate glossary.md",
+    "copilot/copilot-custom-prompts/Generate table of contents.md",
+    "copilot/copilot-custom-prompts/Make longer.md",
+    "copilot/copilot-custom-prompts/Make shorter.md",
+    "copilot/copilot-custom-prompts/Emojify.md",
+    "copilot/copilot-custom-prompts/Explain like I am 5.md",
+    "copilot/copilot-custom-prompts/Simplify.md",
+    "copilot/copilot-custom-prompts/Summarize.md",
+    "copilot/copilot-custom-prompts/Translate to Chinese.md",
+    "copilot/copilot-custom-prompts",
+    "copilot",
+    "概念/操作系统/操作系统原理/文件管理/Pasted image 20260511142116.png",
+    "概念/操作系统/操作系统原理/文件管理/Pasted image 20260511142107.png",
+    "pdf/408/27/2027王道《计算机组成原理》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "图片/Pasted image 20260509174545.png",
     "概念/计算机组成原理/中央处理器",
     "概念/计算机组成原理/指令",
     "项目管理&备赛备考/考研/计组/未命名",
     "概念/计算机组成原理/存储",
     "概念/计算机组成原理/概述",
-    "概念/计算机组成原理/数据表示",
-    "pdf/408/27/2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "项目管理&备赛备考/考研/数据结构/Pasted image 20260507152137.png",
     "项目管理&备赛备考/考研/数据结构/Pasted image 20260507152116.png",
-    "pdf/408/27/2027年计算机网络考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "项目管理&备赛备考/考研/OS/思维导图.canvas",
     "图片/Pasted image 20260501172242.png",
     "项目管理&备赛备考/考研/数一/高数/数列/Pasted image 20260501172153.png",
     "图片/Pasted image 20260429085943.png",
     "项目管理&备赛备考/考研/OS/Pasted image 20260421163654.png",
     "概念/计算机网络/基本概念/数据链路层/Pasted image 20260428121103.png",
-    "图片/Pasted image 20260425190112.png",
     "项目管理&备赛备考/考研/计网/思维导图.canvas",
-    "共享文件/整理笔记/Pasted image 20260424194229.png",
     "项目管理&备赛备考/考研/计组/思维导图.canvas",
     "未命名.canvas",
     "概念/操作系统/操作系统原理/OS总览.canvas",
