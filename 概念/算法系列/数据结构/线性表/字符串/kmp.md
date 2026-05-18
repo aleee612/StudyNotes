@@ -1,66 +1,29 @@
-使用next数组记录最长公共子前缀
-```cpp fold
-#include <iostream>
-#include <vector>
-#include <string>
-using namespace std;
+### Next数组计算方式
+> 不含当前，前面的字符串前后缀最大匹配长度（不包含整体）
 
-// 得到 next 数组
-vector<int> nextArray(const string& s, int m) {
-    if (m == 1) return { -1 };
-    vector<int> next(m);
-    next[0] = -1;
-    next[1] = 0;
-    int i = 2, cn = 0;
-    while (i < m) {
-        if (s[i - 1] == s[cn]) {
-            next[i++] = ++cn;
-        } else if (cn > 0) {
-            cn = next[cn];
-        } else {
-            next[i++] = 0;
-        }
-    }
-    return next;
-}
+**计数对象：** 模式串
+**e.g：**
+- 主串：`ABABABC`
+- 模式串：`ABABC`
+假设已经匹配到了`ABAB`，现在
+	主串下一个字符：`A`
+	模式串下一个字符：`C`
+	失配了，`A != C`
+普通暴力算法会主串回退模式串重新从头
+但 KMP 不回退主串：
+1. 通过将模式串指针`j = next[j];`直接跳到对应的重复匹配过的字符串
+2. 主串指针`i`不变
+3. 将当前主串指针`i`所指字符与模式串指针`j`做对比，若不相等，则继续重复步骤
+### 进一步优化
+> 做`P[j] == P[next[j]]`判断（P：模式串）
 
-// KMP 主算法
-int kmp(const string& s1, const string& s2) {
-    int n = s1.length(), m = s2.length();
-    if (m == 0) return 0; // 空串匹配
-    int x = 0, y = 0;
-    vector<int> next = nextArray(s2, m);
-    while (x < n && y < m) {
-        if (s1[x] == s2[y]) {
-            x++;
-            y++;
-        } else if (y == 0) {
-            x++;
-        } else {
-            y = next[y];
-        }
-    }
-    return y == m ? x - y : -1;
-}
+普通 `next` 的问题：
+- 有时候`P[j] == P[next[j]]`，失配后跳过去的字符，还是和刚才失败的字符一样
+- 于是`主串字符 != P[j]主串字符 当然也 != P[next[j]]`
+- 这次比较根本没意义
+=> 做`P[j] == P[next[j]]`判断后，`nextval[j] = nextval[next[j]]`
 
-// 包装函数，等同于 strStr
-int strStr(const string& haystack, const string& needle) {
-    return kmp(haystack, needle);
-}
-
-// 主函数
-int main() {
-    string text, pattern;
-    getline(cin, text);
-    getline(cin, pattern);
-
-    int index = strStr(text, pattern);
-    if (index != -1) {
-        cout << "Pattern found at index: " << index << endl;
-    } else {
-        cout << "Pattern not found." << endl;
-    }
-
-    return 0;
-}
-```
+e.g：
+`aaaab`
+对于next：`next=[-1, 0, 1, 2, 3]` 
+对于nextval：`nextval=[-1, -1, -1, -1, 3]` 
