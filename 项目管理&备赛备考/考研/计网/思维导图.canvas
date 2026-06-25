@@ -19,7 +19,7 @@
 		{"id":"c16a3079a7de6252","type":"file","file":"概念/计算机网络/基本概念/网络层/IP/IP.md","x":-1442,"y":-390,"width":400,"height":400,"color":"1"},
 		{"id":"36414c8171689f26","type":"file","file":"概念/计算机网络/基本概念/网络层/IP/无类别域间路由选择CIDR.md","x":-1547,"y":-173,"width":400,"height":400},
 		{"id":"53713356c424b9fd","type":"file","file":"项目管理&备赛备考/考研/计网/IP.md","x":-941,"y":-262,"width":400,"height":400},
-		{"id":"e7cb8c5702fb7b81","type":"file","file":"概念/计算机网络/基本概念/网络层/因特网控制报文协议ICMP.md","x":-805,"y":-25,"width":400,"height":379},
+		{"id":"e7cb8c5702fb7b81","type":"file","file":"概念/计算机网络/基本概念/网络层/ICMP 因特网控制报文协议.md","x":-805,"y":-25,"width":400,"height":379},
 		{"id":"d6153940f635331f","type":"file","file":"概念/计算机网络/基本概念/网络层/IP/分配IP地址：DHCP.md","x":-943,"y":185,"width":400,"height":400},
 		{"id":"fc0991f011818631","type":"file","file":"概念/计算机网络/基本概念/数据链路层/交换局域网/链路层寻址 & ARP.md","x":-799,"y":379,"width":400,"height":400},
 		{"id":"fa1acfaa35eb025a","type":"file","file":"概念/计算机网络/基本概念/网络层/路由器/路由选择算法.md","x":-945,"y":635,"width":400,"height":400},
