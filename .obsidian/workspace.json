@@ -6,6 +6,7 @@
       {
         "id": "804d17736f3cafce",
         "type": "tabs",
+        "dimension": 45.95645412130638,
         "children": [
           {
             "id": "deea8ecc84495832",
@@ -19,6 +20,25 @@
               },
               "icon": "lucide-file",
               "title": "图的存储"
+            }
+          }
+        ]
+      },
+      {
+        "id": "db1569815a9b0482",
+        "type": "tabs",
+        "dimension": 54.04354587869362,
+        "children": [
+          {
+            "id": "0d33ed99f93b3a60",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "pdf/408/27/2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk)"
             }
           }
         ]
@@ -193,17 +213,26 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "deea8ecc84495832",
+  "active": "53eeedd2796567c2",
   "lastOpenFiles": [
-    "概念/算法系列/扩展算法/图的表示.md",
+    "pdf/408/27/2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "概念/算法系列/数据结构/图/图的存储.md",
-    "概念/算法系列/数据结构/图/图的基本术语.md",
+    "图片/Pasted image 20260712133235.png",
+    "图片/Pasted image 20260712133213.png",
+    "图片/Pasted image 20260712132633.png",
+    "图片/Pasted image 20260712132519.png",
+    "图片/Pasted image 20260712132205.png",
+    "图片/Pasted image 20260712131507.png",
+    "图片/Pasted image 20260712131336.png",
+    "图片/Pasted image 20260712125848.png",
+    "图片/Pasted image 20260712125844.png",
     "项目管理&备赛备考/考研/数据结构/考点难点.md",
+    "概念/算法系列/扩展算法/图的表示.md",
+    "概念/算法系列/数据结构/图/图的基本术语.md",
     "项目管理&备赛备考/考研/数一/高数/积分/微分计算方法.md",
     "共享文件/租房.md",
     "概念/计算机组成原理/存储/Cache.md",
     "共享文件/Pasted image 20260706100900.png",
-    "共享文件/Pasted image 20260706100851.png",
     "概念/算法系列/数据结构/排序/计数 & 基数.md",
     "概念/算法系列/数据结构/排序/排序总览.md",
     "概念/算法系列/数据结构/树/并查集→最小生成树.md",
@@ -222,19 +251,9 @@
     "概念/计算机组成原理/中央处理器/指令流水线.md",
     "项目管理&备赛备考/考研/数一/高数/函数.md",
     "项目管理&备赛备考/考研/数一/高数/极限/极限.md",
-    "项目管理&备赛备考/考研/数一/高数/导数微分/导数.md",
     "pdf/408/27/2027王道《计算机组成原理》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "概念/计算机组成原理/中央处理器/Pasted image 20260623194201.png",
-    "概念/计算机组成原理/中央处理器/Pasted image 20260623194154.png",
     "pdf/408/27/2027年计算机网络考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "项目管理&备赛备考/考研/计组/思维导图.canvas",
-    "概念/计算机网络/基本概念/应用层/应用层协议/电子邮件/Pasted image 20260622204650.png",
-    "概念/计算机网络/基本概念/应用层/应用层协议/电子邮件/Pasted image 20251128190533.png",
-    "图片/Pasted image 20260617112216.png",
-    "图片/Pasted image 20260617110654.png",
-    "图片/Pasted image 20260617110608.png",
-    "pdf/408/27/2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "图片/Pasted image 20260615194816.png",
     "pdf/408/27/2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
     "项目管理&备赛备考/考研/数一/高数/积分",
     "项目管理&备赛备考/考研/2026_11408_院校专业_官方汇总.xlsx",
