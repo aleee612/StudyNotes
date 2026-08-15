@@ -4,39 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1ac221e9852a21d",
+        "id": "36d094bb03927dc3",
         "type": "tabs",
         "children": [
           {
-            "id": "035e0fec3b410462",
+            "id": "6fb52dd5b70644a5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "概念/算法系列/数据结构/查找/B-树 & B+树.md",
+                "file": "概念/计算机网络/基本概念/物理层/信道容量的计算.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "B-树 & B+树"
-            }
-          }
-        ]
-      },
-      {
-        "id": "4a0d733efae1d190",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4b0257375b1855e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "pdf/408/27/2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk)"
+              "title": "信道容量的计算"
             }
           }
         ]
@@ -59,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -71,8 +55,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "「",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -105,7 +89,7 @@
       {
         "id": "6aa705245da954ef",
         "type": "tabs",
-        "dimension": 64.33823529411765,
+        "dimension": 33.042635658914726,
         "children": [
           {
             "id": "a3ba49f34f648141",
@@ -171,7 +155,7 @@
       {
         "id": "28185300d05b8dee",
         "type": "tabs",
-        "dimension": 35.661764705882355,
+        "dimension": 66.95736434108527,
         "children": [
           {
             "id": "87a06188a445b495",
@@ -179,13 +163,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pdf/408/27/2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+                "file": "概念/计算机网络/基本概念/网络层/IP/MTU与IP分片.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk) 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -211,58 +195,59 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "035e0fec3b410462",
+  "active": "6fb52dd5b70644a5",
   "lastOpenFiles": [
-    "pdf/408/27/2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "概念/算法系列/数据结构/查找/B-树 & B+树.md",
-    "概念/算法系列/数据结构/查找/Pasted image 20260717164237.png",
-    "姜/未命名.md",
-    "语法/ArkTs/前端部分/应用结构/基本概念.md",
-    "概念/算法系列/数据结构/查找/树形查找.md",
-    "项目管理&备赛备考/考研/数据结构/栈和队列的应用.md",
-    "概念/算法系列/数据结构/查找/散列哈希.md",
-    "图片/Pasted image 20260715165534.png",
-    "图片/Pasted image 20260715165528.png",
-    "图片/Pasted image 20260715165247.png",
-    "图片/Pasted image 20260715164827.png",
-    "图片/Pasted image 20260715164448.png",
-    "图片/Pasted image 20260715164415.png",
-    "图片/Pasted image 20260715164403.png",
-    "概念/算法系列/数据结构/查找/顺序查找 ， 二分（折半查找）， 分块查找.md",
-    "项目管理&备赛备考/考研/数据结构/考点难点.md",
-    "概念/算法系列/扩展算法/二分.md",
-    "pdf/英语/27考研英语5500词汇-你还在背单词吗.pdf",
-    "项目管理&备赛备考/考研/数一/高数/积分/一元积分.md",
-    "pdf/英语/考研英语58篇基础阅读-精讲册（1）.pdf",
-    "pdf/英语/27刘晓艳《不就是语法和长难句吗》.pdf",
-    "pdf/英语/考研英语58篇基础阅读-真题册（2）.pdf",
-    "项目管理&备赛备考/考研/政治",
-    "概念/算法系列/数据结构/图/图的应用.md",
-    "概念/算法系列/数据结构/图/图的存储.md",
-    "概念/算法系列/数据结构/图/拓扑排序.md",
-    "图片/Pasted image 20260713155345.png",
-    "图片/Pasted image 20260713154752.png",
-    "概念/算法系列/数据结构/树/并查集→最小生成树.md",
-    "概念/算法系列/数据结构/图/A星，Floyd.md",
-    "概念/算法系列/数据结构/图/dfs与bfs.md",
-    "概念/算法系列/数据结构/图/记忆化搜索.md",
-    "概念/算法系列/数据结构/图/图的基本术语.md",
-    "概念/算法系列/扩展算法/最短路径.md",
-    "概念/算法系列/扩展算法/图的表示.md",
-    "pdf/408/计算机网络（原书第7版） 自顶向下方法 (James F. Kurose Keith W. Ross) (Z-Library).pdf",
-    "项目管理&备赛备考/考研/计组/考点难点.md",
-    "概念/计算机组成原理/中央处理器/指令流水线.md",
-    "pdf/408/27/2027王道《计算机组成原理》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "概念/计算机组成原理/中央处理器/CPU功能和结构.md",
-    "概念/计算机组成原理/中央处理器/数据通路.md",
-    "概念/算法系列/数据结构/图/图的遍历.md",
-    "pdf/408/27/2027年计算机网络考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "项目管理&备赛备考/考研/计组/思维导图.canvas",
-    "pdf/408/27/2027王道《操作系统》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
-    "项目管理&备赛备考/考研/OS/思维导图.canvas",
+    "概念/计算机网络/基本概念/物理层/物理层.md",
+    "概念/计算机网络/基本概念/物理层/信道容量的计算.md",
+    "概念/计算机网络/基本概念/杂记--小问题/全双工与半双工与单工.md",
+    "概念/计算机网络/基本概念/杂记--小问题/模拟信号 & 数字信号.md",
+    "概念/计算机网络/基本概念/物理层/调制技术.md",
+    "概念/计算机网络/基本概念/总思维导图.md",
+    "项目管理&备赛备考/考研/计网/计网知识体系.md",
     "项目管理&备赛备考/考研/计网/思维导图.canvas",
+    "概念/计算机网络/基本概念/网络层/IP/MTU与IP分片.md",
+    "概念/计算机网络/基本概念/应用访问与安全.md",
+    "概念/计算机网络/基本概念/寻址、转发与路由.md",
+    "概念/计算机网络/基本概念/共享信道、交换与广播域.md",
+    "概念/计算机网络/基本概念/可靠性、流量控制与拥塞控制.md",
+    "概念/计算机网络/基本概念/报文单位与封装.md",
+    "概念/计算机网络/基本概念/网安/网络安全.md",
+    "概念/计算机网络/基本概念/应用层/应用层.md",
+    "概念/计算机网络/基本概念/运输层/运输层.md",
+    "概念/计算机网络/基本概念/网络层/网络层.md",
+    "概念/计算机网络/基本概念/数据链路层/数据链路层.md",
+    "概念/计算机网络/基本概念/网络层/IP/IPv6.md",
+    "概念/计算机网络/基本概念/网络层/IP/IPv4数据报.md",
+    "概念/计算机网络/基本概念/网络层/IP/IP.md",
+    "概念/计算机网络/基本概念/总论：如何传输数据？.md",
+    "概念/计算机网络/基本概念/网络层/IP/NAT.md",
+    "概念/计算机网络/基本概念/网络层/IP/DHCP.md",
+    "项目管理&备赛备考/考研/计网/考点难点.md",
+    "概念/计算机网络/基本概念/网络层/IP/分配IP地址：DHCP.md",
+    "tmp/pdfs/2020_408/page-01.png",
+    "pdf/408/真题/2020年计算机408真题.pdf",
+    "项目管理&备赛备考/考研/数一/线代",
+    "图片/Pasted image 20260805114554.png",
+    "图片/Pasted image 20260805114541.png",
+    "图片/Pasted image 20260805114047.png",
+    "图片/Pasted image 20260805113704.png",
+    "图片/Pasted image 20260805113002.png",
+    "图片/Pasted image 20260805112507.png",
+    "tmp/pdfs/2020_408/q38-hi-09.png",
+    "tmp/pdfs/2020_408/page-11.png",
+    "tmp/pdfs/2020_408/page-10.png",
+    "tmp/pdfs/2020_408",
+    "tmp/pdfs",
+    "tmp",
+    "pdf/408/27/2027王道《数据结构》考研复习指导 (王道论坛) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "pdf/408/真题/2021年计算机408真题.pdf",
+    "项目管理&备赛备考/考研/计组/思维导图.canvas",
     "未命名.canvas",
+    "pdf/408/真题/2022年计算机408真题.pdf",
+    "pdf/408/真题/2025年计算机408真题.pdf",
     "概念/操作系统/操作系统原理/OS总览.canvas",
+    "pdf/408/真题/2024年计算机408真题.pdf",
+    "项目管理&备赛备考/考研/OS/思维导图.canvas",
     "梁李璇/概念/操作系统/操作系统原理/OS总览.canvas",
     "共享文件/梁李璇/概念/操作系统/操作系统原理/OS总览.canvas",
     "共享文件/梁李璇/Obsidian Vault - 副本/概念/操作系统/操作系统原理/OS总览.canvas"
