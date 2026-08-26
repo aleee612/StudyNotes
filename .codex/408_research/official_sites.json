@@ -1,0 +1,3412 @@
+{
+  "school_count": 208,
+  "matched_school_count": 201,
+  "error_count": 5,
+  "results": {
+    "北京工业大学": [
+      {
+        "score": 12,
+        "anchor": "北京工业大学研究生招生网",
+        "url": "http://yanzhao.bjut.edu.cn/",
+        "host": "yanzhao.bjut.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京工业大学计算机学院",
+        "url": "https://cs.bjut.edu.cn/",
+        "host": "cs.bjut.edu.cn"
+      }
+    ],
+    "北京科技大学": [
+      {
+        "score": 12,
+        "anchor": "北京科技大学计算机与通信工程学院",
+        "url": "http://scce.ustb.edu.cn/",
+        "host": "scce.ustb.edu.cn"
+      },
+      {
+        "score": 11,
+        "anchor": "北京科技大学顺德研究生院",
+        "url": "https://sd.ustb.edu.cn/tzgg/index.htm",
+        "host": "sd.ustb.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京科技大学研招网",
+        "url": "https://yzxc.ustb.edu.cn/",
+        "host": "yzxc.ustb.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京科技大学数理学院",
+        "url": "http://shuli.ustb.edu.cn/",
+        "host": "shuli.ustb.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "国家材料服役安全科学中心",
+        "url": "http://ncms.ustb.edu.cn/",
+        "host": "ncms.ustb.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "钢铁共性技术协同创新中心",
+        "url": "http://cicst.ustb.edu.cn/",
+        "host": "cicst.ustb.edu.cn"
+      }
+    ],
+    "北京师范大学": [
+      {
+        "score": 11,
+        "anchor": "北京师范大学人工智能学院",
+        "url": "https://ai.bnu.edu.cn/dqgz/yydt/yydt1/index.htm",
+        "host": "ai.bnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京师范大学心理学部",
+        "url": "http://psych.bnu.edu.cn/",
+        "host": "psych.bnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京师范大学研招网",
+        "url": "https://yz.bnu.edu.cn/",
+        "host": "yz.bnu.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "北京师范大学教育学部",
+        "url": "https://fe.bnu.edu.cn/html/index.html",
+        "host": "fe.bnu.edu.cn"
+      }
+    ],
+    "北京大学": [
+      {
+        "score": 12,
+        "anchor": "北京大学计算机学院",
+        "url": "https://cs.pku.edu.cn/",
+        "host": "cs.pku.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京大学软件与微电子学院",
+        "url": "http://www.ss.pku.edu.cn/",
+        "host": "www.ss.pku.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京大学智能学院",
+        "url": "https://sai.pku.edu.cn/index.htm",
+        "host": "sai.pku.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京大学数学科学学院",
+        "url": "https://www.math.pku.edu.cn/",
+        "host": "www.math.pku.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京大学工学院",
+        "url": "https://www.coe.pku.edu.cn/",
+        "host": "www.coe.pku.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "北大研究生院",
+        "url": "https://grs.pku.edu.cn/",
+        "host": "grs.pku.edu.cn"
+      }
+    ],
+    "中国矿业大学": [
+      {
+        "score": 12,
+        "anchor": "中国矿业大学【北京】机电与信息工程学院",
+        "url": "https://jdxy.cumtb.edu.cn/",
+        "host": "jdxy.cumtb.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中国矿业大学【徐州】计算机科学与技术学院",
+        "url": "http://cs.cumt.edu.cn/",
+        "host": "cs.cumt.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国矿业大学【北京】研招网",
+        "url": "https://yjs.cumtb.edu.cn/",
+        "host": "yjs.cumtb.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国矿业大学【徐州】研招网",
+        "url": "http://yjsb.cumt.edu.cn/",
+        "host": "yjsb.cumt.edu.cn"
+      }
+    ],
+    "北京交通大学": [
+      {
+        "score": 12,
+        "anchor": "北京交通大学计算机学院",
+        "url": "https://cs.bjtu.edu.cn/",
+        "host": "cs.bjtu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京交通大学软件学院",
+        "url": "http://rjxy.bjtu.edu.cn/",
+        "host": "rjxy.bjtu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京交通大学电子信息工程学院",
+        "url": "https://eie.bjtu.edu.cn/",
+        "host": "eie.bjtu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京交通大学研招网",
+        "url": "https://gs.bjtu.edu.cn/",
+        "host": "gs.bjtu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京交通大学网络空间安全学院",
+        "url": "https://bmxy.bjtu.edu.cn/cms/",
+        "host": "bmxy.bjtu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京交通大学自动化与智能学院",
+        "url": "https://ai.bjtu.edu.cn/",
+        "host": "ai.bjtu.edu.cn"
+      }
+    ],
+    "中国农业大学": [
+      {
+        "score": 12,
+        "anchor": "中国农业大学信息与电气工程学院官网",
+        "url": "http://ciee.cau.edu.cn/",
+        "host": "ciee.cau.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国农业大学研招网",
+        "url": "https://yz.cau.edu.cn/",
+        "host": "yz.cau.edu.cn"
+      }
+    ],
+    "中央民族大学": [
+      {
+        "score": 12,
+        "anchor": "中央民族大学研究生院",
+        "url": "http://grs.muc.edu.cn/",
+        "host": "grs.muc.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中央民族大学信息科学与工程学院",
+        "url": "https://xingong.muc.edu.cn/",
+        "host": "xingong.muc.edu.cn"
+      }
+    ],
+    "中国人民大学": [
+      {
+        "score": 12,
+        "anchor": "中国人民大学信息学院官网",
+        "url": "http://info.ruc.edu.cn",
+        "host": "info.ruc.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中国人民大学高瓴人工智能学院",
+        "url": "http://ai.ruc.edu.cn/index.htm",
+        "host": "ai.ruc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国人民大学研招网",
+        "url": "https://pgs.ruc.edu.cn/",
+        "host": "pgs.ruc.edu.cn"
+      }
+    ],
+    "北京林业大学": [
+      {
+        "score": 12,
+        "anchor": "北京林业大学信息学院",
+        "url": "http://it.bjfu.edu.cn/",
+        "host": "it.bjfu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京林业大学研招网",
+        "url": "http://graduate.bjfu.edu.cn/",
+        "host": "graduate.bjfu.edu.cn"
+      }
+    ],
+    "华北电力大学": [
+      {
+        "score": 12,
+        "anchor": "华北电力大学【北京】控制与计算机工程学院",
+        "url": "http://cce.ncepu.edu.cn/",
+        "host": "cce.ncepu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华北电力大学【北京】研招网",
+        "url": "http://yjsy.ncepu.edu.cn/",
+        "host": "yjsy.ncepu.edu.cn"
+      }
+    ],
+    "中国地质大学": [
+      {
+        "score": 12,
+        "anchor": "中国地质大学【北京】信息工程学院",
+        "url": "https://sie.cugb.edu.cn/",
+        "host": "sie.cugb.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国地质大学【北京】研招网",
+        "url": "https://graduate.cugb.edu.cn/",
+        "host": "graduate.cugb.edu.cn"
+      }
+    ],
+    "北京邮电大学": [
+      {
+        "score": 12,
+        "anchor": "北京邮电大学计算机学院(国家示范性软件学院)",
+        "url": "https://scs.bupt.edu.cn/",
+        "host": "scs.bupt.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京邮电大学人工智能学院",
+        "url": "https://ai.bupt.edu.cn/",
+        "host": "ai.bupt.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京邮电大学研招网",
+        "url": "https://yzb.bupt.edu.cn/",
+        "host": "yzb.bupt.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京邮电大学网络空间安全学院",
+        "url": "https://scss.bupt.edu.cn/",
+        "host": "scss.bupt.edu.cn"
+      }
+    ],
+    "中央财经大学": [
+      {
+        "score": 12,
+        "anchor": "中央财经大学研究生院",
+        "url": "http://gs.cufe.edu.cn/",
+        "host": "gs.cufe.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中央财经大学信息学院",
+        "url": "http://ie.cufe.edu.cn/",
+        "host": "ie.cufe.edu.cn"
+      }
+    ],
+    "北京航空航天大学": [
+      {
+        "score": 12,
+        "anchor": "北京航空航天大学计算机学院官网",
+        "url": "http://scse.buaa.edu.cn/",
+        "host": "scse.buaa.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京航空航天大学软件学院官网",
+        "url": "http://soft.buaa.edu.cn/",
+        "host": "soft.buaa.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京航空航天大学人工智能研究院",
+        "url": "https://iai.buaa.edu.cn/",
+        "host": "iai.buaa.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京航空航天大学网络空间安全学院官网",
+        "url": "http://cst.buaa.edu.cn/",
+        "host": "cst.buaa.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京航空航天大学研招网",
+        "url": "https://yzb.buaa.edu.cn/",
+        "host": "yzb.buaa.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "杭州国际创新研究院",
+        "url": "https://h3i.buaa.edu.cn/",
+        "host": "h3i.buaa.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "https://accoding.buaa.edu.cn/",
+        "url": "https://accoding.buaa.edu.cn/",
+        "host": "accoding.buaa.edu.cn"
+      }
+    ],
+    "北京体育大学": [
+      {
+        "score": 9,
+        "anchor": "北京体育大学研招网",
+        "url": "https://zs.bsu.edu.cn/",
+        "host": "zs.bsu.edu.cn"
+      }
+    ],
+    "对外经济贸易大学": [
+      {
+        "score": 12,
+        "anchor": "对外经济贸易大学信息学院",
+        "url": "http://it.uibe.edu.cn/",
+        "host": "it.uibe.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "对外经济贸易大学研招网",
+        "url": "http://yjsy.uibe.edu.cn/cms/index.do",
+        "host": "yjsy.uibe.edu.cn"
+      }
+    ],
+    "中国传媒大学": [
+      {
+        "score": 12,
+        "anchor": "中国传媒大学计算机与网络空间安全学院",
+        "url": "https://ccs.cuc.edu.cn/",
+        "host": "ccs.cuc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国传媒大学研招网",
+        "url": "http://yz.cuc.edu.cn/",
+        "host": "yz.cuc.edu.cn"
+      }
+    ],
+    "北方工业大学": [
+      {
+        "score": 12,
+        "anchor": "北方工业大学信息学院",
+        "url": "https://csci.ncut.edu.cn/",
+        "host": "csci.ncut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北方工业大学研招网",
+        "url": "http://yjsy.ncut.edu.cn/",
+        "host": "yjsy.ncut.edu.cn"
+      }
+    ],
+    "清华大学": [
+      {
+        "score": 12,
+        "anchor": "清华大学计算机科学与技术系官网",
+        "url": "http://www.cs.tsinghua.edu.cn/",
+        "host": "www.cs.tsinghua.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "清华大学软件学院官网",
+        "url": "http://www.thss.tsinghua.edu.cn/",
+        "host": "www.thss.tsinghua.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "清华大学深圳国际研究生院",
+        "url": "https://www.sigs.tsinghua.edu.cn/",
+        "host": "www.sigs.tsinghua.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "清华大学全球创新学院",
+        "url": "https://gix.tsinghua.edu.cn/",
+        "host": "gix.tsinghua.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "清华大学研招网",
+        "url": "https://yz.tsinghua.edu.cn/",
+        "host": "yz.tsinghua.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "清华大学网络科学与网络空间研究院官网",
+        "url": "http://www.insc.tsinghua.edu.cn/",
+        "host": "www.insc.tsinghua.edu.cn"
+      }
+    ],
+    "北京化工大学": [
+      {
+        "score": 12,
+        "anchor": "北京化工大学研究生院",
+        "url": "http://graduate.buct.edu.cn/",
+        "host": "graduate.buct.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京化工大学信息科学与技术学院",
+        "url": "http://cist.buct.edu.cn/",
+        "host": "cist.buct.edu.cn"
+      }
+    ],
+    "北京物资学院": [
+      {
+        "score": 11,
+        "anchor": "北京物资学院研究生院",
+        "url": "http://yjsb.bwu.edu.cn/dsxx/jsjkxyjs.htm",
+        "host": "yjsb.bwu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京物资学院研招网",
+        "url": "https://yjsb.bwu.edu.cn/",
+        "host": "yjsb.bwu.edu.cn"
+      }
+    ],
+    "中国石油大学": [
+      {
+        "score": 12,
+        "anchor": "中国石油大学【北京】信息科学与工程学院",
+        "url": "http://www.cup.edu.cn/cise/",
+        "host": "www.cup.edu.cn"
+      },
+      {
+        "score": 11,
+        "anchor": "中国石油大学【北京】人工智能学院",
+        "url": "https://www.cup.edu.cn/ai/index.htm",
+        "host": "www.cup.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国石油大学【北京】研招网",
+        "url": "https://grs.cup.edu.cn/",
+        "host": "grs.cup.edu.cn"
+      }
+    ],
+    "北京联合大学": [
+      {
+        "score": 9,
+        "anchor": "北京联合大学研招网",
+        "url": "https://graduate.buu.edu.cn/",
+        "host": "graduate.buu.edu.cn"
+      }
+    ],
+    "北京电子科技学院": [
+      {
+        "score": 9,
+        "anchor": "北京电子科技学院研招网",
+        "url": "https://www.besti.edu.cn/index.dhtml",
+        "host": "www.besti.edu.cn"
+      }
+    ],
+    "北京印刷学院": [
+      {
+        "score": 8,
+        "anchor": "北京印刷学院研招网",
+        "url": "http://gs.bigc.edu.cn/yjszs/index.htm",
+        "host": "gs.bigc.edu.cn"
+      }
+    ],
+    "首都师范大学": [
+      {
+        "score": 12,
+        "anchor": "首都师范大学信息工程学院",
+        "url": "https://iec.cnu.edu.cn/",
+        "host": "iec.cnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "首都师范大学研招网",
+        "url": "http://grad.cnu.edu.cn/",
+        "host": "grad.cnu.edu.cn"
+      }
+    ],
+    "天津医科大学": [
+      {
+        "score": 12,
+        "anchor": "天津医科大学研究生院",
+        "url": "https://gs.tmu.edu.cn/",
+        "host": "gs.tmu.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "天津医科大学生物医学工程与技术学院",
+        "url": "https://www.tmu.edu.cn/swyxgc/main.psp",
+        "host": "www.tmu.edu.cn"
+      }
+    ],
+    "北京语言大学": [
+      {
+        "score": 12,
+        "anchor": "北京语言大学信息科学学院",
+        "url": "http://xxkx.blcu.edu.cn/",
+        "host": "xxkx.blcu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京语言大学研招网",
+        "url": "http://yjsy.blcu.edu.cn/",
+        "host": "yjsy.blcu.edu.cn"
+      }
+    ],
+    "首都经济贸易大学": [
+      {
+        "score": 9,
+        "anchor": "首都经济贸易大学研招网",
+        "url": "https://yjs.cueb.edu.cn/",
+        "host": "yjs.cueb.edu.cn"
+      }
+    ],
+    "北京信息科技大学": [
+      {
+        "score": 12,
+        "anchor": "北京信息科技大学计算机学院",
+        "url": "https://jsjxy.bistu.edu.cn/",
+        "host": "jsjxy.bistu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "北京信息科技大学研究生院",
+        "url": "https://yanjiusheng.bistu.edu.cn/",
+        "host": "yanjiusheng.bistu.edu.cn"
+      },
+      {
+        "score": 0,
+        "anchor": "https://yanjiusheng.bistu.edu.cn/zsgl/zsxx/201910/W020191023425123953227.pdf",
+        "url": "https://yanjiusheng.bistu.edu.cn/zsgl/zsxx/201910/W020191023425123953227.pdf",
+        "host": "yanjiusheng.bistu.edu.cn"
+      },
+      {
+        "score": 0,
+        "anchor": "https://yanjiusheng.bistu.edu.cn/zsgl/zsxx/201910/W020191023425123958419.pdf",
+        "url": "https://yanjiusheng.bistu.edu.cn/zsgl/zsxx/201910/W020191023425123958419.pdf",
+        "host": "yanjiusheng.bistu.edu.cn"
+      }
+    ],
+    "天津大学": [
+      {
+        "score": 9,
+        "anchor": "天津大学智能与计算学部",
+        "url": "http://cic.tju.edu.cn/",
+        "host": "cic.tju.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "天津大学国际工程师学院",
+        "url": "http://tiei2014.tju.edu.cn/",
+        "host": "tiei2014.tju.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "天津大学新媒体与传播学院",
+        "url": "http://snmc.tju.edu.cn/",
+        "host": "snmc.tju.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "天津大学研招网",
+        "url": "https://yzb.tju.edu.cn/",
+        "host": "yzb.tju.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "佐治亚理工深圳学院",
+        "url": "http://gtsi.edu.cn/",
+        "host": "gtsi.edu.cn"
+      }
+    ],
+    "北京理工大学": [
+      {
+        "score": 12,
+        "anchor": "北京理工大学计算机学院官网",
+        "url": "http://cs.bit.edu.cn/",
+        "host": "cs.bit.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "北京理工大学网络空间安全学院",
+        "url": "https://cst.bit.edu.cn/",
+        "host": "cst.bit.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "北京理工大学研招网",
+        "url": "https://grd.bit.edu.cn/zsgz/zsxx/",
+        "host": "grd.bit.edu.cn"
+      }
+    ],
+    "天津师范大学": [
+      {
+        "score": 12,
+        "anchor": "天津师范大学计算机与信息工程学院",
+        "url": "https://xxgc.tjnu.edu.cn/index.htm",
+        "host": "xxgc.tjnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "天津师范大学研招网",
+        "url": "http://yjsy.tjnu.edu.cn/zsxx.htm",
+        "host": "yjsy.tjnu.edu.cn"
+      }
+    ],
+    "南开大学": [
+      {
+        "score": 12,
+        "anchor": "南开大学计算机学院",
+        "url": "https://cc.nankai.edu.cn/",
+        "host": "cc.nankai.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南开大学软件学院",
+        "url": "https://cs.nankai.edu.cn/",
+        "host": "cs.nankai.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南开大学人工智能学院",
+        "url": "http://ai.nankai.edu.cn/",
+        "host": "ai.nankai.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南开大学网络空间安全学院",
+        "url": "https://cyber.nankai.edu.cn/",
+        "host": "cyber.nankai.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南开大学研招网",
+        "url": "https://yzb.nankai.edu.cn/",
+        "host": "yzb.nankai.edu.cn"
+      }
+    ],
+    "天津理工大学": [
+      {
+        "score": 12,
+        "anchor": "天津理工大学计算机科学与工程学院",
+        "url": "http://cs.tjut.edu.cn/",
+        "host": "cs.tjut.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "天津理工大学研招网",
+        "url": "https://yjs.tjut.edu.cn/xwzx/jwdt.htm",
+        "host": "yjs.tjut.edu.cn"
+      }
+    ],
+    "天津职业技术师范大学": [
+      {
+        "score": 9,
+        "anchor": "天津职业技术师范大学研招网",
+        "url": "http://yjsh.tute.edu.cn/",
+        "host": "yjsh.tute.edu.cn"
+      }
+    ],
+    "天津城建大学": [
+      {
+        "score": 9,
+        "anchor": "天津城建大学研招网",
+        "url": "http://master.tcu.edu.cn/",
+        "host": "master.tcu.edu.cn"
+      }
+    ],
+    "天津财经大学": [
+      {
+        "score": 9,
+        "anchor": "天津财经大学研招网",
+        "url": "http://yjsy.tjufe.edu.cn/",
+        "host": "yjsy.tjufe.edu.cn"
+      }
+    ],
+    "中国科学院大学": [
+      {
+        "score": 9,
+        "anchor": "中国科学院大学研招网",
+        "url": "https://admission.ucas.ac.cn/",
+        "host": "admission.ucas.ac.cn"
+      }
+    ],
+    "天津农学院": [
+      {
+        "score": 8,
+        "anchor": "天津农学院研招网",
+        "url": "http://yjs.tjau.edu.cn/zsgz/zsjz.htm",
+        "host": "yjs.tjau.edu.cn"
+      }
+    ],
+    "复旦大学": [
+      {
+        "score": 12,
+        "anchor": "复旦大学计算机学院官网",
+        "url": "http://www.cs.fudan.edu.cn/",
+        "host": "www.cs.fudan.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "复旦大学软件学院官网",
+        "url": "https://software.fudan.edu.cn/",
+        "host": "software.fudan.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "复旦大学工程与应用技术研究院",
+        "url": "http://faet.fudan.edu.cn/",
+        "host": "faet.fudan.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "复旦大学研招网",
+        "url": "https://gsao.fudan.edu.cn/",
+        "host": "gsao.fudan.edu.cn"
+      }
+    ],
+    "上海科技大学": [
+      {
+        "score": 12,
+        "anchor": "上海科技大学信息科学与技术学院",
+        "url": "http://sist.shanghaitech.edu.cn/main.htm",
+        "host": "sist.shanghaitech.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "上海科技大学研招网",
+        "url": "http://yanzhao.shanghaitech.edu.cn/",
+        "host": "yanzhao.shanghaitech.edu.cn"
+      },
+      {
+        "score": 3,
+        "anchor": "信息学院2025年硕士研究生入学考试大纲及往年真题汇总",
+        "url": "https://sist.shanghaitech.edu.cn/2024/0930/c7340a1101323/page.htm",
+        "host": "sist.shanghaitech.edu.cn"
+      }
+    ],
+    "华东师范大学": [
+      {
+        "score": 12,
+        "anchor": "华东师范大学软件工程学院",
+        "url": "http://www.sei.ecnu.edu.cn/",
+        "host": "www.sei.ecnu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "华东师范大学计算机科学与技术学院",
+        "url": "http://www.cs.ecnu.edu.cn/",
+        "host": "www.cs.ecnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华东师范大学数据科学与工程系",
+        "url": "http://dase.ecnu.edu.cn/",
+        "host": "dase.ecnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华东师范大学研招网",
+        "url": "https://yjszs.ecnu.edu.cn/",
+        "host": "yjszs.ecnu.edu.cn"
+      },
+      {
+        "score": 0,
+        "anchor": "https://yjszs-ks.ecnu.edu.cn/zsml/sszsml/index/2026",
+        "url": "https://yjszs-ks.ecnu.edu.cn/zsml/sszsml/index/2026",
+        "host": "yjszs-ks.ecnu.edu.cn"
+      }
+    ],
+    "上海大学": [
+      {
+        "score": 12,
+        "anchor": "上海大学计算机工程与科学学院",
+        "url": "http://cs.shu.edu.cn/",
+        "host": "cs.shu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "上海大学研招网",
+        "url": "http://yjszs.shu.edu.cn/",
+        "host": "yjszs.shu.edu.cn"
+      }
+    ],
+    "东华大学": [
+      {
+        "score": 12,
+        "anchor": "东华大学计算机科学与技术学院官网",
+        "url": "http://cst.dhu.edu.cn/",
+        "host": "cst.dhu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "东华大学研招网",
+        "url": "https://yjszs.dhu.edu.cn/",
+        "host": "yjszs.dhu.edu.cn"
+      }
+    ],
+    "上海海洋大学": [
+      {
+        "score": 12,
+        "anchor": "上海海洋大学信息学院",
+        "url": "http://xxxy.shou.edu.cn/",
+        "host": "xxxy.shou.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "上海海洋大学研招网",
+        "url": "http://yjs.shou.edu.cn/",
+        "host": "yjs.shou.edu.cn"
+      }
+    ],
+    "上海交通大学": [
+      {
+        "score": 12,
+        "anchor": "上海交通大学电子信息与电气工程学院官网",
+        "url": "http://www.seiee.sjtu.edu.cn/",
+        "host": "www.seiee.sjtu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "上海交通大学研招网",
+        "url": "https://yzb.sjtu.edu.cn/",
+        "host": "yzb.sjtu.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "生物医学工程学院",
+        "url": "https://bme.sjtu.edu.cn/",
+        "host": "bme.sjtu.edu.cn"
+      }
+    ],
+    "上海海事大学": [
+      {
+        "score": 9,
+        "anchor": "上海海事大学研招网",
+        "url": "http://yz.shmtu.edu.cn/",
+        "host": "yz.shmtu.edu.cn"
+      }
+    ],
+    "重庆科技大学": [
+      {
+        "score": 12,
+        "anchor": "重庆科技大学计算机科学与工程学院",
+        "url": "https://znxy.cqust.edu.cn/",
+        "host": "znxy.cqust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "重庆科技大学研招网",
+        "url": "https://yjs.cqust.edu.cn/",
+        "host": "yjs.cqust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "重庆科技大学数理科学学院",
+        "url": "https://slxy.cqust.edu.cn/",
+        "host": "slxy.cqust.edu.cn"
+      }
+    ],
+    "上海理工大学": [
+      {
+        "score": 12,
+        "anchor": "上海理工大学光电与计算机学院",
+        "url": "http://oece.usst.edu.cn/",
+        "host": "oece.usst.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "上海理工大学研招网",
+        "url": "http://yz.usst.edu.cn/",
+        "host": "yz.usst.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "上海理工大学出版印刷与艺术设计学院",
+        "url": "https://ccad.usst.edu.cn/",
+        "host": "ccad.usst.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "上海理工大学健康科学与工程学院",
+        "url": "https://jiankang.usst.edu.cn/",
+        "host": "jiankang.usst.edu.cn"
+      }
+    ],
+    "同济大学": [
+      {
+        "score": 12,
+        "anchor": "同济大学电子与信息工程学院官网",
+        "url": "https://see.tongji.edu.cn/",
+        "host": "see.tongji.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "同济大学软件学院官网",
+        "url": "http://sse.tongji.edu.cn/",
+        "host": "sse.tongji.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "同济大学计算机科学与技术学院2025年硕士研究生招生考试复试安排",
+        "url": "https://yz.tongji.edu.cn/170fushianpai.pdf",
+        "host": "yz.tongji.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "同济大学研招网",
+        "url": "https://yz.tongji.edu.cn/",
+        "host": "yz.tongji.edu.cn"
+      }
+    ],
+    "华东理工大学": [
+      {
+        "score": 12,
+        "anchor": "华东理工大学信息科学与工程学院",
+        "url": "http://cise.ecust.edu.cn/",
+        "host": "cise.ecust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华东理工大学研招网",
+        "url": "https://gschool.ecust.edu.cn/",
+        "host": "gschool.ecust.edu.cn"
+      }
+    ],
+    "河北工业大学": [
+      {
+        "score": 12,
+        "anchor": "河北工业大学研究生院",
+        "url": "http://yjs.hebut.edu.cn/",
+        "host": "yjs.hebut.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "河北工业大学人工智能与数据科学学院",
+        "url": "http://ai.hebut.edu.cn/",
+        "host": "ai.hebut.edu.cn"
+      },
+      {
+        "score": 0,
+        "anchor": "附录1",
+        "url": "https://ai.hebut.edu.cn/docs/2024-03/164055a372f944558ae678120e4d71ce.docx",
+        "host": "ai.hebut.edu.cn"
+      }
+    ],
+    "中国人民警察大学": [
+      {
+        "score": 9,
+        "anchor": "中国人民警察大学研招网",
+        "url": "http://www.wjxy.edu.cn/",
+        "host": "www.wjxy.edu.cn"
+      }
+    ],
+    "上海电机学院": [
+      {
+        "score": 9,
+        "anchor": "上海电机学院研招网",
+        "url": "https://yjs.sdju.edu.cn/",
+        "host": "yjs.sdju.edu.cn"
+      }
+    ],
+    "上海财经大学": [
+      {
+        "score": 12,
+        "anchor": "上海财经大学信息管理与工程学院",
+        "url": "http://sime.shufe.edu.cn/",
+        "host": "sime.shufe.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "上海财经大学研招网",
+        "url": "https://gs.sufe.edu.cn/",
+        "host": "gs.sufe.edu.cn"
+      }
+    ],
+    "华北理工大学": [
+      {
+        "score": 12,
+        "anchor": "华北理工大学信息工程学院",
+        "url": "http://info.ncst.edu.cn/",
+        "host": "info.ncst.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华北理工大学研招网",
+        "url": "http://yjsxy.ncst.edu.cn/",
+        "host": "yjsxy.ncst.edu.cn"
+      }
+    ],
+    "重庆大学": [
+      {
+        "score": 12,
+        "anchor": "重庆大学计算机学院官网",
+        "url": "https://cs.cqu.edu.cn/",
+        "host": "cs.cqu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "重庆大学大数据与软件学院官网",
+        "url": "http://www.cse.cqu.edu.cn/",
+        "host": "www.cse.cqu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "重庆大学研招网",
+        "url": "https://yz.cqu.edu.cn/ss_news.html",
+        "host": "yz.cqu.edu.cn"
+      }
+    ],
+    "河北科技大学": [
+      {
+        "score": 8,
+        "anchor": "河北科技大学研招网",
+        "url": "https://yjsxy.web.hebust.edu.cn/zsgz/index.htm",
+        "host": "yjsxy.web.hebust.edu.cn"
+      }
+    ],
+    "华北电力大学(保定)": [
+      {
+        "score": 4,
+        "anchor": "华北电力大学【保定】计算机系",
+        "url": "https://cs.ncepu.edu.cn/",
+        "host": "cs.ncepu.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "华北电力大学【保定】研招网",
+        "url": "http://gs.ncepu.edu.cn/",
+        "host": "gs.ncepu.edu.cn"
+      }
+    ],
+    "河北师范大学": [
+      {
+        "score": 9,
+        "anchor": "河北师范大学研招网",
+        "url": "http://yjsy.hebtu.edu.cn/",
+        "host": "yjsy.hebtu.edu.cn"
+      }
+    ],
+    "太原师范学院": [
+      {
+        "score": 9,
+        "anchor": "太原师范学院研招网",
+        "url": "http://yjsc.tynu.edu.cn/",
+        "host": "yjsc.tynu.edu.cn"
+      }
+    ],
+    "沈阳师范大学": [
+      {
+        "score": 9,
+        "anchor": "沈阳师范大学研招网",
+        "url": "https://yjs.synu.edu.cn/",
+        "host": "yjs.synu.edu.cn"
+      }
+    ],
+    "太原科技大学": [
+      {
+        "score": 8,
+        "anchor": "太原科技大学研招网",
+        "url": "https://yjsxy.tyust.edu.cn/zsgz/zsjz.htm",
+        "host": "yjsxy.tyust.edu.cn"
+      }
+    ],
+    "太原理工大学": [
+      {
+        "score": 12,
+        "anchor": "太原理工大学软件学院",
+        "url": "https://rjxy.tyut.edu.cn/",
+        "host": "rjxy.tyut.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "太原理工大学计算机科学与技术学院",
+        "url": "http://ccst.tyut.edu.cn/",
+        "host": "ccst.tyut.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "太原理工大学人工智能学院",
+        "url": "https://tylgswyxgc.tyut.edu.cn/",
+        "host": "tylgswyxgc.tyut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "太原理工大学研招网",
+        "url": "http://www.gs.tyut.edu.cn/",
+        "host": "www.gs.tyut.edu.cn"
+      }
+    ],
+    "辽宁大学": [
+      {
+        "score": 12,
+        "anchor": "辽宁大学研究生院",
+        "url": "http://grs.lnu.edu.cn/",
+        "host": "grs.lnu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "辽宁大学信息学院",
+        "url": "http://sist.lnu.edu.cn/",
+        "host": "sist.lnu.edu.cn"
+      }
+    ],
+    "西南大学": [
+      {
+        "score": 12,
+        "anchor": "西南大学计算机与信息科学学院/软件学院",
+        "url": "http://cis.swu.edu.cn/",
+        "host": "cis.swu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "西南大学人工智能学院",
+        "url": "http://ai.swu.edu.cn/index.htm",
+        "host": "ai.swu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西南大学研招网",
+        "url": "http://yz.swu.edu.cn/",
+        "host": "yz.swu.edu.cn"
+      }
+    ],
+    "东北大学": [
+      {
+        "score": 12,
+        "anchor": "东北大学计算机科学与工程学院",
+        "url": "http://www.cse.neu.edu.cn/",
+        "host": "www.cse.neu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "东北大学软件学院",
+        "url": "http://sc.neu.edu.cn/",
+        "host": "sc.neu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "东北大学秦皇岛分校",
+        "url": "http://graduate.neuq.edu.cn",
+        "host": "graduate.neuq.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "东北大学研招网",
+        "url": "http://yz.neu.edu.cn/5932/list.htm",
+        "host": "yz.neu.edu.cn"
+      }
+    ],
+    "河北建筑工程学院": [
+      {
+        "score": 9,
+        "anchor": "河北建筑工程学院研招网",
+        "url": "https://yanjs.hebiace.edu.cn/zsjy.htm",
+        "host": "yanjs.hebiace.edu.cn"
+      }
+    ],
+    "吉林大学": [
+      {
+        "score": 12,
+        "anchor": "吉林大学计算机科学与技术学院",
+        "url": "http://ccst.jlu.edu.cn/",
+        "host": "ccst.jlu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "吉林大学软件学院",
+        "url": "http://csw.jlu.edu.cn/",
+        "host": "csw.jlu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "吉林大学人工智能学院",
+        "url": "http://sai.jlu.edu.cn/",
+        "host": "sai.jlu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "吉林大学研招网",
+        "url": "https://zsb.jlu.edu.cn/",
+        "host": "zsb.jlu.edu.cn"
+      }
+    ],
+    "长春理工大学": [
+      {
+        "score": 12,
+        "anchor": "长春理工大学计算机科学与技术学院",
+        "url": "http://cs.cust.edu.cn/",
+        "host": "cs.cust.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "长春理工大学人工智能学院",
+        "url": "https://ai.cust.edu.cn/",
+        "host": "ai.cust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "长春理工大学研招网",
+        "url": "http://yzb.cust.edu.cn/",
+        "host": "yzb.cust.edu.cn"
+      }
+    ],
+    "哈尔滨工业大学": [
+      {
+        "score": 12,
+        "anchor": "哈尔滨工业大学计算机学院官网",
+        "url": "http://www.cs.hit.edu.cn/",
+        "host": "www.cs.hit.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "哈尔滨工业大学软件学院官网",
+        "url": "http://software.hit.edu.cn/",
+        "host": "software.hit.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "哈尔滨工业大学卓越工程师学院",
+        "url": "https://ees.hit.edu.cn/main.htm",
+        "host": "ees.hit.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "哈尔滨工业大学研招网",
+        "url": "https://yzb.hit.edu.cn/main.htm",
+        "host": "yzb.hit.edu.cn"
+      }
+    ],
+    "山西大学": [
+      {
+        "score": 12,
+        "anchor": "山西大学计算机与信息技术学院",
+        "url": "http://cs.sxu.edu.cn/",
+        "host": "cs.sxu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "山西大学研招网",
+        "url": "http://yjszsw.sxu.edu.cn/",
+        "host": "yjszsw.sxu.edu.cn"
+      }
+    ],
+    "东北农业大学": [
+      {
+        "score": 12,
+        "anchor": "东北农业大学研究生院",
+        "url": "http://graduate.neau.edu.cn/",
+        "host": "graduate.neau.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "东北农业大学电气与信息学院",
+        "url": "http://dqxx.neau.edu.cn/",
+        "host": "dqxx.neau.edu.cn"
+      }
+    ],
+    "大连理工大学": [
+      {
+        "score": 12,
+        "anchor": "大连理工大学电子信息与电气工程学部官网",
+        "url": "http://ee.dlut.edu.cn/",
+        "host": "ee.dlut.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "大连理工大学软件学院官网",
+        "url": "https://ss.dlut.edu.cn/",
+        "host": "ss.dlut.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "大连理工大学计算机科学与技术学院",
+        "url": "https://cs.dlut.edu.cn/",
+        "host": "cs.dlut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "大连理工大学研招网",
+        "url": "https://gs.dlut.edu.cn/",
+        "host": "gs.dlut.edu.cn"
+      }
+    ],
+    "苏州大学": [
+      {
+        "score": 12,
+        "anchor": "苏州大学计算机科学与技术学院",
+        "url": "http://scst.suda.edu.cn/",
+        "host": "scst.suda.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "苏州大学研招网",
+        "url": "https://yjs.suda.edu.cn/",
+        "host": "yjs.suda.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "苏州大学未来科学与工程学院",
+        "url": "https://future.suda.edu.cn/",
+        "host": "future.suda.edu.cn"
+      }
+    ],
+    "哈尔滨工程大学": [
+      {
+        "score": 12,
+        "anchor": "哈尔滨工程大学计算机科学与技术学院",
+        "url": "http://cstc.hrbeu.edu.cn/",
+        "host": "cstc.hrbeu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "哈尔滨工程大学研招网",
+        "url": "https://yzb.hrbeu.edu.cn/",
+        "host": "yzb.hrbeu.edu.cn"
+      }
+    ],
+    "东北林业大学": [
+      {
+        "score": 12,
+        "anchor": "东北林业大学研究生院",
+        "url": "https://yz.nefu.edu.cn/",
+        "host": "yz.nefu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "东北林业大学信息与计算机工程学院",
+        "url": "https://icec.nefu.edu.cn/",
+        "host": "icec.nefu.edu.cn"
+      }
+    ],
+    "大连海事大学": [
+      {
+        "score": 12,
+        "anchor": "大连海事大学研究生院",
+        "url": "http://grs.dlmu.edu.cn/",
+        "host": "grs.dlmu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "大连海事大学信息科学技术学院",
+        "url": "http://ist.dlmu.edu.cn/",
+        "host": "ist.dlmu.edu.cn"
+      }
+    ],
+    "江南大学": [
+      {
+        "score": 12,
+        "anchor": "江南大学人工智能与计算机学院",
+        "url": "http://ai.jiangnan.edu.cn/",
+        "host": "ai.jiangnan.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "江南大学研招网",
+        "url": "https://yz.jiangnan.edu.cn/",
+        "host": "yz.jiangnan.edu.cn"
+      }
+    ],
+    "南京航空航天大学": [
+      {
+        "score": 12,
+        "anchor": "南京航空航天大学计算机科学与技术学院",
+        "url": "http://cs.nuaa.edu.cn/",
+        "host": "cs.nuaa.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南京航空航天大学研招网",
+        "url": "http://www.graduate.nuaa.edu.cn/",
+        "host": "www.graduate.nuaa.edu.cn"
+      }
+    ],
+    "南京邮电大学": [
+      {
+        "score": 12,
+        "anchor": "南京邮电大学计算机学院/软件学院/网络空间安全学院官网",
+        "url": "http://cs.njupt.edu.cn/",
+        "host": "cs.njupt.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南京邮电大学研招网",
+        "url": "https://yzb.njupt.edu.cn/",
+        "host": "yzb.njupt.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南京邮电大学物联网学院",
+        "url": "http://ciot.njupt.edu.cn/",
+        "host": "ciot.njupt.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南京邮电大学现代邮政学院",
+        "url": "http://simp.njupt.edu.cn/",
+        "host": "simp.njupt.edu.cn"
+      }
+    ],
+    "河海大学": [
+      {
+        "score": 12,
+        "anchor": "河海大学计算机与信息学院",
+        "url": "http://cies.hhu.edu.cn/",
+        "host": "cies.hhu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "河海大学信息科学与工程学院",
+        "url": "https://ise.hhu.edu.cn/",
+        "host": "ise.hhu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "河海大学物联网工程学院",
+        "url": "http://wulwxy.hhuc.edu.cn/",
+        "host": "wulwxy.hhuc.edu.cn"
+      }
+    ],
+    "南京师范大学": [
+      {
+        "score": 12,
+        "anchor": "南京师范大学计算机与电子信息学院/人工智能学院",
+        "url": "http://ceai.njnu.edu.cn/",
+        "host": "ceai.njnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南京师范大学教育科学学院",
+        "url": "https://jky.njnu.edu.cn/",
+        "host": "jky.njnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南京师范大学研招网",
+        "url": "https://yjszs.njnu.edu.cn/",
+        "host": "yjszs.njnu.edu.cn"
+      }
+    ],
+    "南京财经大学": [
+      {
+        "score": 12,
+        "anchor": "南京财经大学计算机与人工智能学院",
+        "url": "https://cie.nufe.edu.cn/",
+        "host": "cie.nufe.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南京财经大学研招网",
+        "url": "http://yjsc.nufe.edu.cn/",
+        "host": "yjsc.nufe.edu.cn"
+      }
+    ],
+    "南京林业大学": [
+      {
+        "score": 9,
+        "anchor": "南京林业大学研招网",
+        "url": "https://yz.njfu.edu.cn/",
+        "host": "yz.njfu.edu.cn"
+      }
+    ],
+    "南京理工大学": [
+      {
+        "score": 12,
+        "anchor": "南京理工大学研究生院",
+        "url": "http://gs.njust.edu.cn/",
+        "host": "gs.njust.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南京理工大学计算机科学与工程学院",
+        "url": "http://cs.njust.edu.cn/",
+        "host": "cs.njust.edu.cn"
+      }
+    ],
+    "南通大学": [
+      {
+        "score": 9,
+        "anchor": "南通大学研招网",
+        "url": "http://yjs.ntu.edu.cn/",
+        "host": "yjs.ntu.edu.cn"
+      }
+    ],
+    "江苏师范大学": [
+      {
+        "score": 12,
+        "anchor": "江苏师范大学计算机学院",
+        "url": "http://eit.jsnu.edu.cn/",
+        "host": "eit.jsnu.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "江苏师范大学研招网",
+        "url": "http://yjszs.jsnu.edu.cn/zyml_13214/list.htm",
+        "host": "yjszs.jsnu.edu.cn"
+      }
+    ],
+    "南京农业大学": [
+      {
+        "score": 12,
+        "anchor": "南京农业大学研究生院",
+        "url": "http://grasch.njau.edu.cn/",
+        "host": "grasch.njau.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南京农业大学人工智能学院",
+        "url": "http://ai.njau.edu.cn/",
+        "host": "ai.njau.edu.cn"
+      }
+    ],
+    "中国计量大学": [
+      {
+        "score": 12,
+        "anchor": "中国计量大学信息工程学院",
+        "url": "https://xxgcxy.cjlu.edu.cn/",
+        "host": "xxgcxy.cjlu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国计量大学研招网",
+        "url": "https://yjszs.cjlu.edu.cn/",
+        "host": "yjszs.cjlu.edu.cn"
+      }
+    ],
+    "南京信息工程大学": [
+      {
+        "score": 12,
+        "anchor": "南京信息工程大学研招网",
+        "url": "http://yjs.nuist.edu.cn/",
+        "host": "yjs.nuist.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南京信息工程大学计算机与软件学院",
+        "url": "https://scs.nuist.edu.cn/",
+        "host": "scs.nuist.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南京信息工程大学软件学院",
+        "url": "https://software.nuist.edu.cn/main.htm",
+        "host": "software.nuist.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南京信息工程大学人工智能学院",
+        "url": "https://rgzn.nuist.edu.cn/",
+        "host": "rgzn.nuist.edu.cn"
+      }
+    ],
+    "浙江师范大学": [
+      {
+        "score": 12,
+        "anchor": "浙江师范大学数理与信息工程学院",
+        "url": "http://mpi.zjnu.edu.cn/",
+        "host": "mpi.zjnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "浙江师范大学研招网",
+        "url": "http://yjsb.zjnu.edu.cn/",
+        "host": "yjsb.zjnu.edu.cn"
+      }
+    ],
+    "南京大学": [
+      {
+        "score": 12,
+        "anchor": "南京大学计算机系官网",
+        "url": "http://cs.nju.edu.cn/",
+        "host": "cs.nju.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南京大学软件学院官网",
+        "url": "https://software.nju.edu.cn/",
+        "host": "software.nju.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南京大学人工智能学院",
+        "url": "https://ai.nju.edu.cn/",
+        "host": "ai.nju.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "南京大学研招网",
+        "url": "https://grawww.nju.edu.cn/899/list.htm",
+        "host": "grawww.nju.edu.cn"
+      }
+    ],
+    "杭州师范大学": [
+      {
+        "score": 12,
+        "anchor": "杭州师范大学信息科学与技术学院",
+        "url": "http://hise.hznu.edu.cn/",
+        "host": "hise.hznu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "杭州师范大学研招网",
+        "url": "https://yjs.hznu.edu.cn/yjszs/",
+        "host": "yjs.hznu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "杭州师范大学阿里巴巴商学院",
+        "url": "http://abc.hznu.edu.cn/",
+        "host": "abc.hznu.edu.cn"
+      }
+    ],
+    "杭州电子科技大学": [
+      {
+        "score": 12,
+        "anchor": "杭州电子科技大学计算机学院",
+        "url": "http://computer.hdu.edu.cn/",
+        "host": "computer.hdu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "杭州电子科技大学网络空间安全学院",
+        "url": "http://cbs.hdu.edu.cn/",
+        "host": "cbs.hdu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "杭州电子科技大学数字媒体与艺术设计学院",
+        "url": "http://syxy.hdu.edu.cn/",
+        "host": "syxy.hdu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "杭州电子科技大学研招网",
+        "url": "https://grs.hdu.edu.cn/",
+        "host": "grs.hdu.edu.cn"
+      }
+    ],
+    "浙江财经大学": [
+      {
+        "score": 9,
+        "anchor": "浙江财经大学研招网",
+        "url": "https://gs.zufe.edu.cn/",
+        "host": "gs.zufe.edu.cn"
+      }
+    ],
+    "东南大学": [
+      {
+        "score": 12,
+        "anchor": "东南大学计算机科学与工程学院",
+        "url": "https://cse.seu.edu.cn/",
+        "host": "cse.seu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "东南大学苏州软件学院",
+        "url": "https://cose.seu.edu.cn/",
+        "host": "cose.seu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "东南大学研究生招生网",
+        "url": "https://yzb.seu.edu.cn/",
+        "host": "yzb.seu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "东南大学-蒙纳什大学苏州联合研究生院",
+        "url": "https://smjgs.seu.edu.cn/",
+        "host": "smjgs.seu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "东南大学网络空间安全学院",
+        "url": "https://cyber.seu.edu.cn/",
+        "host": "cyber.seu.edu.cn"
+      }
+    ],
+    "浙江工商大学": [
+      {
+        "score": 12,
+        "anchor": "浙江工商大学计算机与技术学院",
+        "url": "http://scie.zjgsu.edu.cn/",
+        "host": "scie.zjgsu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "浙江工商大学信息与电子工程学院",
+        "url": "https://iee.zjgsu.edu.cn/",
+        "host": "iee.zjgsu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "浙江工商大学研招网",
+        "url": "http://yjszs.zjgsu.edu.cn/",
+        "host": "yjszs.zjgsu.edu.cn"
+      }
+    ],
+    "浙江大学": [
+      {
+        "score": 12,
+        "anchor": "浙江大学计算机科学与技术学院官网",
+        "url": "http://www.cs.zju.edu.cn/csen/",
+        "host": "www.cs.zju.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "浙江大学软件学院官网",
+        "url": "http://www.cst.zju.edu.cn/",
+        "host": "www.cst.zju.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "浙江大学工程师学院官网",
+        "url": "https://pi.zju.edu.cn/",
+        "host": "pi.zju.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "浙江大学研招网",
+        "url": "http://www.grs.zju.edu.cn/yjszs/",
+        "host": "www.grs.zju.edu.cn"
+      }
+    ],
+    "安徽工业大学": [
+      {
+        "score": 9,
+        "anchor": "安徽工业大学研招网",
+        "url": "http://graduate.ahut.edu.cn/",
+        "host": "graduate.ahut.edu.cn"
+      }
+    ],
+    "浙江海洋大学": [
+      {
+        "score": 9,
+        "anchor": "浙江海洋大学研招网",
+        "url": "http://yjsyzs.zjou.edu.cn/",
+        "host": "yjsyzs.zjou.edu.cn"
+      }
+    ],
+    "湖州师范学院": [
+      {
+        "score": 9,
+        "anchor": "湖州师范学院研招网",
+        "url": "http://yjsy.zjhu.edu.cn/main.htm",
+        "host": "yjsy.zjhu.edu.cn"
+      }
+    ],
+    "浙江科技大学": [
+      {
+        "score": 5,
+        "anchor": "浙江科技学院研招网",
+        "url": "https://yzw.zust.edu.cn/",
+        "host": "yzw.zust.edu.cn"
+      }
+    ],
+    "浙江农林大学": [
+      {
+        "score": 9,
+        "anchor": "浙江农林大学研招网",
+        "url": "https://yjszs.zafu.edu.cn/",
+        "host": "yjszs.zafu.edu.cn"
+      }
+    ],
+    "闽南师范大学": [
+      {
+        "score": 9,
+        "anchor": "闽南师范大学研招网",
+        "url": "https://yjsc.mnnu.edu.cn/",
+        "host": "yjsc.mnnu.edu.cn"
+      }
+    ],
+    "安徽建筑大学": [
+      {
+        "score": 12,
+        "anchor": "安徽建筑大学电子与信息工程学院",
+        "url": "https://www.ahjzu.edu.cn/dxxy/",
+        "host": "www.ahjzu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "安徽建筑大学研招网",
+        "url": "https://www.ahjzu.edu.cn/yjsc/",
+        "host": "www.ahjzu.edu.cn"
+      }
+    ],
+    "温州大学": [
+      {
+        "score": 12,
+        "anchor": "温州大学计算机与人工智能学院",
+        "url": "https://ai.wzu.edu.cn/",
+        "host": "ai.wzu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "温州大学研招网",
+        "url": "http://yjsb.wzu.edu.cn/",
+        "host": "yjsb.wzu.edu.cn"
+      }
+    ],
+    "安徽大学": [
+      {
+        "score": 12,
+        "anchor": "安徽大学研究生院",
+        "url": "http://graschool.ahu.edu.cn/",
+        "host": "graschool.ahu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "安徽大学计算机科学与技术学院",
+        "url": "http://cs.ahu.edu.cn/",
+        "host": "cs.ahu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "安徽大学人工智能学院",
+        "url": "https://ai.ahu.edu.cn/",
+        "host": "ai.ahu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "安徽大学互联网学院",
+        "url": "https://si.ahu.edu.cn/",
+        "host": "si.ahu.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "中科院合肥物质科学研究院--中科院合肥创新院",
+        "url": "http://www.hf.cas.cn/",
+        "host": "www.hf.cas.cn"
+      }
+    ],
+    "福州大学": [
+      {
+        "score": 12,
+        "anchor": "福州大学研究生院",
+        "url": "http://yjsy.fzu.edu.cn/",
+        "host": "yjsy.fzu.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "计算机与大数据学院/软件学院",
+        "url": "https://ccds.fzu.edu.cn/index.htm",
+        "host": "ccds.fzu.edu.cn"
+      }
+    ],
+    "福建师范大学": [
+      {
+        "score": 9,
+        "anchor": "福建师范大学研招网",
+        "url": "http://yjsy.fjnu.edu.cn/",
+        "host": "yjsy.fjnu.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "计算机与网络空间安全学院",
+        "url": "https://ccs.fjnu.edu.cn/main.htm",
+        "host": "ccs.fjnu.edu.cn"
+      }
+    ],
+    "合肥工业大学": [
+      {
+        "score": 12,
+        "anchor": "合肥工业大学计算机与信息学院",
+        "url": "http://ci.hfut.edu.cn/",
+        "host": "ci.hfut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "合肥工业大学研招网",
+        "url": "https://yjszs.hfut.edu.cn/",
+        "host": "yjszs.hfut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "合肥工业大学卓越工程师学院",
+        "url": "https://eie.hfut.edu.cn/index.htm",
+        "host": "eie.hfut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "合肥工业大学聚变科学与工程学院",
+        "url": "https://fusion.hfut.edu.cn/index.htm",
+        "host": "fusion.hfut.edu.cn"
+      }
+    ],
+    "厦门大学": [
+      {
+        "score": 12,
+        "anchor": "厦门大学信息学院",
+        "url": "https://informatics.xmu.edu.cn/",
+        "host": "informatics.xmu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "厦门大学计算机科学与技术系",
+        "url": "https://cs.xmu.edu.cn/",
+        "host": "cs.xmu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "厦门大学人工智能研究院",
+        "url": "https://iai.xmu.edu.cn/",
+        "host": "iai.xmu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "厦门大学人工智能系",
+        "url": "https://cogsci.xmu.edu.cn/",
+        "host": "cogsci.xmu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "厦门大学研招网",
+        "url": "https://zsb.xmu.edu.cn/",
+        "host": "zsb.xmu.edu.cn"
+      }
+    ],
+    "浙江工业大学": [
+      {
+        "score": 12,
+        "anchor": "浙江工业大学计算机学院、软件学院",
+        "url": "https://cs.zjut.edu.cn/",
+        "host": "cs.zjut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "浙江工业大学研招网",
+        "url": "http://www.yz.zjut.edu.cn/",
+        "host": "www.yz.zjut.edu.cn"
+      }
+    ],
+    "中国科学技术大学": [
+      {
+        "score": 12,
+        "anchor": "中国科学技术大学计算机科学与技术学院官网",
+        "url": "http://cs.ustc.edu.cn/",
+        "host": "cs.ustc.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中国科学技术大学软件学院官网",
+        "url": "https://sse.ustc.edu.cn/",
+        "host": "sse.ustc.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中国科学技术大学人工智能与数据科学学院",
+        "url": "https://saids.ustc.edu.cn/",
+        "host": "saids.ustc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国科学技术大学网络空间安全学院官网",
+        "url": "http://infosec.ustc.edu.cn/",
+        "host": "infosec.ustc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国科学技术大学研招网",
+        "url": "https://yz.ustc.edu.cn/",
+        "host": "yz.ustc.edu.cn"
+      }
+    ],
+    "江西中医药大学": [
+      {
+        "score": 9,
+        "anchor": "江西中医药大学研招网",
+        "url": "http://yjsy.jxutcm.edu.cn/",
+        "host": "yjsy.jxutcm.edu.cn"
+      }
+    ],
+    "青岛农业大学": [],
+    "中国海洋大学": [
+      {
+        "score": 12,
+        "anchor": "中国海洋大学信息科学与工程学部",
+        "url": "https://it.ouc.edu.cn/",
+        "host": "it.ouc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中国海洋大学研招网",
+        "url": "https://yz.ouc.edu.cn/",
+        "host": "yz.ouc.edu.cn"
+      }
+    ],
+    "山东建筑大学": [
+      {
+        "score": 9,
+        "anchor": "山东建筑大学研招网",
+        "url": "https://www.sdjzu.edu.cn/",
+        "host": "www.sdjzu.edu.cn"
+      }
+    ],
+    "临沂大学": [
+      {
+        "score": 12,
+        "anchor": "临沂大学信息科学与工程学院",
+        "url": "https://xxxy.lyu.edu.cn/",
+        "host": "xxxy.lyu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "临沂大学研招网",
+        "url": "https://yjsc.lyu.edu.cn/",
+        "host": "yjsc.lyu.edu.cn"
+      }
+    ],
+    "河南理工大学": [
+      {
+        "score": 12,
+        "anchor": "河南理工大学软件学院",
+        "url": "https://ss.hpu.edu.cn/",
+        "host": "ss.hpu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "河南理工大学计算机科学与技术学院",
+        "url": "https://cst.hpu.edu.cn/",
+        "host": "cst.hpu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "河南理工大学研招网",
+        "url": "http://adge.hpu.edu.cn",
+        "host": "adge.hpu.edu.cn"
+      }
+    ],
+    "齐鲁工业大学": [
+      {
+        "score": 9,
+        "anchor": "齐鲁工业大学研招网",
+        "url": "http://yjszs.qlu.edu.cn/",
+        "host": "yjszs.qlu.edu.cn"
+      }
+    ],
+    "武汉大学": [
+      {
+        "score": 12,
+        "anchor": "武汉大学计算机学院官网",
+        "url": "http://cs.whu.edu.cn/",
+        "host": "cs.whu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "武汉大学人工智能学院",
+        "url": "https://sai.whu.edu.cn/index.htm",
+        "host": "sai.whu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "武汉大学研招网",
+        "url": "https://gs.whu.edu.cn/",
+        "host": "gs.whu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "武汉大学国家网络安全学院官网",
+        "url": "http://cse.whu.edu.cn/",
+        "host": "cse.whu.edu.cn"
+      }
+    ],
+    "山东工商学院": [
+      {
+        "score": 9,
+        "anchor": "山东工商学院研招网",
+        "url": "https://yjs.sdtbu.edu.cn/zsgz.htm",
+        "host": "yjs.sdtbu.edu.cn"
+      }
+    ],
+    "山东大学": [
+      {
+        "score": 12,
+        "anchor": "山东大学计算机科学与技术学院",
+        "url": "http://www.cs.sdu.edu.cn/",
+        "host": "www.cs.sdu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "山东大学软件学院",
+        "url": "http://www.sc.sdu.edu.cn/",
+        "host": "www.sc.sdu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "山东大学研招网",
+        "url": "https://www.yz.sdu.edu.cn/",
+        "host": "www.yz.sdu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "山东大学网络空间安全学院",
+        "url": "https://cst.qd.sdu.edu.cn/",
+        "host": "cst.qd.sdu.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "山东大学威海分校",
+        "url": "https://www.wh.sdu.edu.cn/ https://ie.wh.sdu.edu.cn/",
+        "host": "www.wh.sdu.edu.cn"
+      }
+    ],
+    "河南农业大学": [
+      {
+        "score": 9,
+        "anchor": "河南农业大学研招网",
+        "url": "https://gra.henau.edu.cn/",
+        "host": "gra.henau.edu.cn"
+      }
+    ],
+    "华中科技大学": [
+      {
+        "score": 12,
+        "anchor": "华中科技大学计算机学院官网",
+        "url": "http://cs.hust.edu.cn/",
+        "host": "cs.hust.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "华中科技大学软件学院官网",
+        "url": "http://sse.hust.edu.cn/",
+        "host": "sse.hust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华中科技大学网络空间安全学院官网",
+        "url": "http://cse.hust.edu.cn/",
+        "host": "cse.hust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华中科技大学研招网",
+        "url": "https://gszs.hust.edu.cn/",
+        "host": "gszs.hust.edu.cn"
+      }
+    ],
+    "中国地质大学(武汉)": [
+      {
+        "score": 9,
+        "anchor": "中国地质大学(武汉)先进技术研究院",
+        "url": "https://xjjsyjy.cug.edu.cn/index.htm",
+        "host": "xjjsyjy.cug.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "中国地质大学【武汉】计算机学院",
+        "url": "http://cs.cug.edu.cn",
+        "host": "cs.cug.edu.cn"
+      }
+    ],
+    "南昌大学": [
+      {
+        "score": 12,
+        "anchor": "南昌大学信息工程学院",
+        "url": "http://ie.ncu.edu.cn/",
+        "host": "ie.ncu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南昌大学软件学院",
+        "url": "http://soft.ncu.edu.cn/",
+        "host": "soft.ncu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "南昌大学数学与计算机学院",
+        "url": "https://smcs.ncu.edu.cn/",
+        "host": "smcs.ncu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南昌大学研招网",
+        "url": "https://yjsy.ncu.edu.cn/",
+        "host": "yjsy.ncu.edu.cn"
+      }
+    ],
+    "郑州大学": [
+      {
+        "score": 11,
+        "anchor": "郑州大学计算机与人工智能学院",
+        "url": "https://www7.zzu.edu.cn/csai/index.htm",
+        "host": "www7.zzu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "郑州大学研招网",
+        "url": "https://yz.zzu.edu.cn/",
+        "host": "yz.zzu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "郑州大学网络空间安全学院",
+        "url": "http://softschool.zzu.edu.cn/",
+        "host": "softschool.zzu.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "河南先进技术研究院",
+        "url": "https://www7.zzu.edu.cn/xjy/",
+        "host": "www7.zzu.edu.cn"
+      }
+    ],
+    "中国石油大学(华东)": [
+      {
+        "score": 4,
+        "anchor": "中国石油大学【华东】计算机科学与技术学院",
+        "url": "http://computer.upc.edu.cn/",
+        "host": "computer.upc.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "中国石油大学【华东】海洋与空间信息学院",
+        "url": "http://ocean.upc.edu.cn/",
+        "host": "ocean.upc.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "中国石油大学【华东】研招网",
+        "url": "http://gs.upc.edu.cn/",
+        "host": "gs.upc.edu.cn"
+      }
+    ],
+    "中南财经政法大学": [
+      {
+        "score": 12,
+        "anchor": "中南财经政法大学研究生院",
+        "url": "http://yjsy.zuel.edu.cn/",
+        "host": "yjsy.zuel.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中南财经政法大学信息与安全工程学院",
+        "url": "http://xagx.zuel.edu.cn/",
+        "host": "xagx.zuel.edu.cn"
+      }
+    ],
+    "中南民族大学": [
+      {
+        "score": 12,
+        "anchor": "中南民族大学计算机科学学院",
+        "url": "https://www.scuec.edu.cn/jky/",
+        "host": "www.scuec.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中南民族大学研招网",
+        "url": "http://www.scuec.edu.cn/yjsy/",
+        "host": "www.scuec.edu.cn"
+      }
+    ],
+    "长江大学": [
+      {
+        "score": 12,
+        "anchor": "长江大学计算机学院研招网",
+        "url": "http://jky.yangtzeu.edu.cn/",
+        "host": "jky.yangtzeu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "长江大学研招网",
+        "url": "http://gs.yangtzeu.edu.cn/index.htm",
+        "host": "gs.yangtzeu.edu.cn"
+      }
+    ],
+    "武汉科技大学": [
+      {
+        "score": 12,
+        "anchor": "武汉科技大学计算机科学与技术学院",
+        "url": "https://jsjkx.wust.edu.cn/",
+        "host": "jsjkx.wust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "武汉科技大学研招网",
+        "url": "http://ysxy.wust.edu.cn/",
+        "host": "ysxy.wust.edu.cn"
+      }
+    ],
+    "湖北大学": [
+      {
+        "score": 12,
+        "anchor": "湖北大学计算机与信息工程学院",
+        "url": "https://cs.hubu.edu.cn/",
+        "host": "cs.hubu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "湖北大学人工智能学院",
+        "url": "https://ai.hubu.edu.cn/index.htm",
+        "host": "ai.hubu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "湖北大学研招网",
+        "url": "http://gs.hubu.edu.cn/",
+        "host": "gs.hubu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "湖北大学网络空间安全学院",
+        "url": "https://cybersec.hubu.edu.cn/index.htm",
+        "host": "cybersec.hubu.edu.cn"
+      }
+    ],
+    "湖北工业大学": [
+      {
+        "score": 12,
+        "anchor": "湖北工业大学计算机科学与人工智能学院",
+        "url": "https://scs.hbut.edu.cn/",
+        "host": "scs.hbut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "湖北工业大学研招网",
+        "url": "http://yjs.hbut.edu.cn/",
+        "host": "yjs.hbut.edu.cn"
+      }
+    ],
+    "华中师范大学": [
+      {
+        "score": 12,
+        "anchor": "华中师范大学计算机学院",
+        "url": "http://cs.ccnu.edu.cn/",
+        "host": "cs.ccnu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "华中师范大学教育信息技术协同创新中心",
+        "url": "http://cicet.ccnu.edu.cn/",
+        "host": "cicet.ccnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华中师范大学研招网",
+        "url": "http://gs.ccnu.edu.cn/",
+        "host": "gs.ccnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华中师范大学伍伦贡联合研究院",
+        "url": "http://uowji.ccnu.edu.cn/",
+        "host": "uowji.ccnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华中师范大学教育大数据应用技术国家工程实验室",
+        "url": "http://nelebd.ccnu.edu.cn/",
+        "host": "nelebd.ccnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华中师范大学人文社会科学高等研究院",
+        "url": "http://ihss.ccnu.edu.cn/",
+        "host": "ihss.ccnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华中师范大学国家数字化学习工程技术研究中心",
+        "url": "http://nercel.ccnu.edu.cn/",
+        "host": "nercel.ccnu.edu.cn"
+      }
+    ],
+    "武汉工程大学": [
+      {
+        "score": 12,
+        "anchor": "武汉工程大学计算机科学与工程学院",
+        "url": "http://cs.wit.edu.cn/",
+        "host": "cs.wit.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "武汉工程大学研招网",
+        "url": "http://yjs.wit.edu.cn/",
+        "host": "yjs.wit.edu.cn"
+      }
+    ],
+    "湖北民族大学": [
+      {
+        "score": 9,
+        "anchor": "湖北民族大学研招网",
+        "url": "https://www.hbmzu.edu.cn/",
+        "host": "www.hbmzu.edu.cn"
+      }
+    ],
+    "华中农业大学": [
+      {
+        "score": 12,
+        "anchor": "华中农业大学信息学院",
+        "url": "http://coi.hzau.edu.cn/",
+        "host": "coi.hzau.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华中农业大学研招网",
+        "url": "http://yjs.hzau.edu.cn/",
+        "host": "yjs.hzau.edu.cn"
+      }
+    ],
+    "武汉轻工大学": [
+      {
+        "score": 12,
+        "anchor": "武汉轻工大学数学与计算机学院",
+        "url": "http://sjxy.whpu.edu.cn/",
+        "host": "sjxy.whpu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "武汉轻工大学研招网",
+        "url": "http://yjsc.whpu.edu.cn/",
+        "host": "yjsc.whpu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "武汉轻工大学电气与电子工程学院",
+        "url": "http://eied.whpu.edu.cn/",
+        "host": "eied.whpu.edu.cn"
+      }
+    ],
+    "武汉纺织大学": [
+      {
+        "score": 12,
+        "anchor": "武汉纺织大学计算机与人工智能学院",
+        "url": "https://csai.wtu.edu.cn/",
+        "host": "csai.wtu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "武汉纺织大学研招网",
+        "url": "http://gs.wtu.edu.cn/",
+        "host": "gs.wtu.edu.cn"
+      }
+    ],
+    "湖南大学": [
+      {
+        "score": 12,
+        "anchor": "湖南大学计算机学院官网",
+        "url": "http://csee.hnu.edu.cn/",
+        "host": "csee.hnu.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "湖南大学研招网",
+        "url": "http://gra.hnu.edu.cn/index/zsxx.htm",
+        "host": "gra.hnu.edu.cn"
+      }
+    ],
+    "湘潭大学": [
+      {
+        "score": 9,
+        "anchor": "湘潭大学研招网",
+        "url": "http://yjsc.xtu.edu.cn/",
+        "host": "yjsc.xtu.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "计算机学院/网络空间安全学院",
+        "url": "https://jwxy.xtu.edu.cn/",
+        "host": "jwxy.xtu.edu.cn"
+      }
+    ],
+    "三峡大学": [
+      {
+        "score": 9,
+        "anchor": "三峡大学研招网",
+        "url": "http://yjs.ctgu.edu.cn/",
+        "host": "yjs.ctgu.edu.cn"
+      }
+    ],
+    "长沙理工大学": [
+      {
+        "score": 12,
+        "anchor": "长沙理工大学计算机与通信工程学院",
+        "url": "https://www.csust.edu.cn/jtxy/",
+        "host": "www.csust.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "长沙理工大学研招网",
+        "url": "http://www.csust.edu.cn/yjsy/zsxxw.htm",
+        "host": "www.csust.edu.cn"
+      }
+    ],
+    "湖南农业大学": [
+      {
+        "score": 9,
+        "anchor": "湖南农业大学研招网",
+        "url": "http://yjszs.hunau.edu.cn/",
+        "host": "yjszs.hunau.edu.cn"
+      }
+    ],
+    "湖北汽车工业学院": [
+      {
+        "score": 9,
+        "anchor": "湖北汽车工业学院研招网",
+        "url": "http://yjsc.huat.edu.cn/",
+        "host": "yjsc.huat.edu.cn"
+      }
+    ],
+    "湖南师范大学": [
+      {
+        "score": 12,
+        "anchor": "湖南师范大学研究生院",
+        "url": "http://yjsy.hunnu.edu.cn/",
+        "host": "yjsy.hunnu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "湖南师范大学信息科学与工程学院",
+        "url": "http://cise.hunnu.edu.cn/",
+        "host": "cise.hunnu.edu.cn"
+      }
+    ],
+    "华南理工大学": [
+      {
+        "score": 12,
+        "anchor": "华南理工大学计算机学院",
+        "url": "https://www2.scut.edu.cn/cs/",
+        "host": "www2.scut.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "华南理工大学软件学院",
+        "url": "http://www2.scut.edu.cn/sse/",
+        "host": "www2.scut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华南理工大学研招网",
+        "url": "https://yz.scut.edu.cn/",
+        "host": "yz.scut.edu.cn"
+      }
+    ],
+    "南华大学": [
+      {
+        "score": 12,
+        "anchor": "南华大学计算机学院",
+        "url": "http://jsjxy.usc.edu.cn/",
+        "host": "jsjxy.usc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "南华大学研招网",
+        "url": "http://yjs.usc.edu.cn/",
+        "host": "yjs.usc.edu.cn"
+      }
+    ],
+    "湖南科技大学": [
+      {
+        "score": 12,
+        "anchor": "湖南科技大学计算机科学与工程学院",
+        "url": "https://computer.hnust.edu.cn/",
+        "host": "computer.hnust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "湖南科技大学研招网",
+        "url": "https://graduate.hnust.edu.cn/",
+        "host": "graduate.hnust.edu.cn"
+      }
+    ],
+    "暨南大学": [
+      {
+        "score": 12,
+        "anchor": "暨南大学信息科学技术学院",
+        "url": "https://xxxy.jnu.edu.cn/",
+        "host": "xxxy.jnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "暨南大学研招网",
+        "url": "https://yz.jnu.edu.cn/",
+        "host": "yz.jnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "暨南大学智能科学与工程学院",
+        "url": "https://sisse.jnu.edu.cn/",
+        "host": "sisse.jnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "暨南大学网络空间安全学院",
+        "url": "https://cybsec.jnu.edu.cn/main.htm",
+        "host": "cybsec.jnu.edu.cn"
+      }
+    ],
+    "广东工业大学": [
+      {
+        "score": 12,
+        "anchor": "广东工业大学计算机学院",
+        "url": "https://cs.gdut.edu.cn/",
+        "host": "cs.gdut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "广东工业大学研招网",
+        "url": "http://yzw.gdut.edu.cn/",
+        "host": "yzw.gdut.edu.cn"
+      }
+    ],
+    "华南师范大学": [
+      {
+        "score": 12,
+        "anchor": "华南师范大学计算机学院",
+        "url": "http://cs.scnu.edu.cn/",
+        "host": "cs.scnu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "华南师范大学软件学院",
+        "url": "http://ss.scnu.edu.cn/",
+        "host": "ss.scnu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "华南师范大学人工智能学院",
+        "url": "http://ai.scnu.edu.cn/",
+        "host": "ai.scnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华南师范大学研招网",
+        "url": "https://yz.scnu.edu.cn/",
+        "host": "yz.scnu.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "点击查看华南师范大学26考研实时报录比",
+        "url": "https://yanzhao.scnu.edu.cn/Weixin/Statis/TkssBmKs.aspx?nd=2026",
+        "host": "yanzhao.scnu.edu.cn"
+      }
+    ],
+    "中南大学": [
+      {
+        "score": 12,
+        "anchor": "中南大学计算机学院官网",
+        "url": "https://cse.csu.edu.cn/",
+        "host": "cse.csu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中南大学研招网",
+        "url": "https://yz.csu.edu.cn/",
+        "host": "yz.csu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中南大学大数据研究院",
+        "url": "https://bdi.csu.edu.cn/index.htm",
+        "host": "bdi.csu.edu.cn"
+      }
+    ],
+    "中山大学": [
+      {
+        "score": 12,
+        "anchor": "中山大学计算机学院",
+        "url": "https://cse.sysu.edu.cn/",
+        "host": "cse.sysu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中山大学人工智能学院",
+        "url": "http://sai.sysu.edu.cn/",
+        "host": "sai.sysu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "中山大学软件学院",
+        "url": "http://sse.sysu.edu.cn/",
+        "host": "sse.sysu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中山大学研招网",
+        "url": "https://graduate.sysu.edu.cn/",
+        "host": "graduate.sysu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "中山大学系统科学与工程学院",
+        "url": "http://ssse.sysu.edu.cn/",
+        "host": "ssse.sysu.edu.cn"
+      }
+    ],
+    "国防科技大学": [
+      {
+        "score": 11,
+        "anchor": "国防科技大学研究生招生网",
+        "url": "http://yjszs.nudt.edu.cn/index/index.view",
+        "host": "yjszs.nudt.edu.cn"
+      }
+    ],
+    "海南师范大学": [
+      {
+        "score": 9,
+        "anchor": "海南师范大学研招网",
+        "url": "http://yjsc.hainnu.edu.cn/",
+        "host": "yjsc.hainnu.edu.cn"
+      }
+    ],
+    "佛山大学": [
+      {
+        "score": 12,
+        "anchor": "佛山大学计算机与人工智能学院",
+        "url": "https://www.fosu.edu.cn/ai/",
+        "host": "www.fosu.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "佛山大学研招网",
+        "url": "https://www.fosu.edu.cn/yanjiusheng/category/zsgz",
+        "host": "www.fosu.edu.cn"
+      }
+    ],
+    "华南农业大学": [
+      {
+        "score": 12,
+        "anchor": "华南农业大学数学与信息学院",
+        "url": "http://info.scau.edu.cn/",
+        "host": "info.scau.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华南农业大学研招网",
+        "url": "http://yzb.scau.edu.cn/",
+        "host": "yzb.scau.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "华南农业大学电子工程学院",
+        "url": "http://dzxy.scau.edu.cn/",
+        "host": "dzxy.scau.edu.cn"
+      }
+    ],
+    "海南大学": [
+      {
+        "score": 12,
+        "anchor": "海南大学计算机科学与技术学院",
+        "url": "https://cs.hainanu.edu.cn/",
+        "host": "cs.hainanu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "海南大学网络空间安全学院",
+        "url": "https://scs.hainanu.edu.cn/",
+        "host": "scs.hainanu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "海南大学研招网",
+        "url": "https://gs.hainanu.edu.cn/index.htm",
+        "host": "gs.hainanu.edu.cn"
+      }
+    ],
+    "深圳大学": [
+      {
+        "score": 12,
+        "anchor": "深圳大学计算机与软件学院",
+        "url": "https://csse.szu.edu.cn/",
+        "host": "csse.szu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "深圳大学研招网",
+        "url": "https://yz.szu.edu.cn/",
+        "host": "yz.szu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "深圳大学应用技术学院",
+        "url": "https://www.sztu.edu.cn/",
+        "host": "www.sztu.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "大数据系统计算机技术国家工程实验室",
+        "url": "https://bdsc.szu.edu.cn/",
+        "host": "bdsc.szu.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "人工智能与数字经济广东省实验室",
+        "url": "https://www.gml.ac.cn/",
+        "host": "www.gml.ac.cn"
+      }
+    ],
+    "四川大学": [
+      {
+        "score": 12,
+        "anchor": "四川大学计算机学院官网",
+        "url": "http://cs.scu.edu.cn/",
+        "host": "cs.scu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "四川大学网络空间安全学院官网",
+        "url": "http://ccs.scu.edu.cn/",
+        "host": "ccs.scu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "四川大学研招网",
+        "url": "https://yz.scu.edu.cn/",
+        "host": "yz.scu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "四川大学视觉合成图形图像技术重点学科实验室",
+        "url": "https://vs.scu.edu.cn/",
+        "host": "vs.scu.edu.cn"
+      }
+    ],
+    "南方科技大学": [
+      {
+        "score": 8,
+        "anchor": "南方科技大学研招网",
+        "url": "https://gs.sustech.edu.cn/#/home",
+        "host": "gs.sustech.edu.cn"
+      }
+    ],
+    "电子科技大学": [
+      {
+        "score": 12,
+        "anchor": "电子科技大学计算机科学与工程学院",
+        "url": "http://www.scse.uestc.edu.cn/",
+        "host": "www.scse.uestc.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "电子科技大学信息与软件工程学院",
+        "url": "https://sise.uestc.edu.cn/",
+        "host": "sise.uestc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "电子科技大学电子科学技术研究院",
+        "url": "http://www.riest.uestc.edu.cn/",
+        "host": "www.riest.uestc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "电子科技大学通信抗干扰技术国家级重点实验室",
+        "url": "http://www.ncl.uestc.edu.cn/",
+        "host": "www.ncl.uestc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "电子科技大学数学科学学院",
+        "url": "http://www.math.uestc.edu.cn",
+        "host": "www.math.uestc.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "电子科技大学研招网",
+        "url": "https://yz.uestc.edu.cn/",
+        "host": "yz.uestc.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "电子科技大学基础与前沿研究院",
+        "url": "http://www.iffs.uestc.edu.cn/iffs_zh/index.php",
+        "host": "www.iffs.uestc.edu.cn"
+      }
+    ],
+    "西南石油大学": [
+      {
+        "score": 9,
+        "anchor": "西南石油大学研招网",
+        "url": "https://www.swpu.edu.cn/gs/",
+        "host": "www.swpu.edu.cn"
+      },
+      {
+        "score": 3,
+        "anchor": "计算机科学学院",
+        "url": "https://www.swpu.edu.cn/scs/xygk/xyjj.htm",
+        "host": "www.swpu.edu.cn"
+      },
+      {
+        "score": 1,
+        "anchor": "石油与天然气工程学院",
+        "url": "https://www.swpu.edu.cn/sgy/",
+        "host": "www.swpu.edu.cn"
+      }
+    ],
+    "四川农业大学": [
+      {
+        "score": 12,
+        "anchor": "四川农业大学信息工程学院",
+        "url": "https://xxgc.sicau.edu.cn/",
+        "host": "xxgc.sicau.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "四川农业大学研招网",
+        "url": "https://yan.sicau.edu.cn/",
+        "host": "yan.sicau.edu.cn"
+      }
+    ],
+    "西南科技大学": [
+      {
+        "score": 12,
+        "anchor": "西南科技大学计算机科学与技术学院",
+        "url": "https://cs.swust.edu.cn/",
+        "host": "cs.swust.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西南科技大学研招网",
+        "url": "https://gs.swust.edu.cn/zs/",
+        "host": "gs.swust.edu.cn"
+      }
+    ],
+    "成都大学": [
+      {
+        "score": 9,
+        "anchor": "成都大学研招网",
+        "url": "https://yjsc.cdu.edu.cn/",
+        "host": "yjsc.cdu.edu.cn"
+      }
+    ],
+    "成都信息工程大学": [
+      {
+        "score": 12,
+        "anchor": "成都信息工程大学研招网",
+        "url": "http://yjsc.cuit.edu.cn/",
+        "host": "yjsc.cuit.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "成都信息工程大学软件工程学院",
+        "url": "http://rjgcxy.cuit.edu.cn/",
+        "host": "rjgcxy.cuit.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "成都信息工程大学网络空间安全学院",
+        "url": "https://cyber.cuit.edu.cn/",
+        "host": "cyber.cuit.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "成都信息工程大学人工智能学院",
+        "url": "https://qkl.cuit.edu.cn/",
+        "host": "qkl.cuit.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "成都信息工程计算机学院",
+        "url": "http://jsjxy.cuit.edu.cn/",
+        "host": "jsjxy.cuit.edu.cn"
+      }
+    ],
+    "西华大学": [
+      {
+        "score": 12,
+        "anchor": "西华大学计算机与软件工程学院",
+        "url": "http://cs.xhu.edu.cn/",
+        "host": "cs.xhu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西华大学研招网",
+        "url": "http://yjs.xhu.edu.cn/",
+        "host": "yjs.xhu.edu.cn"
+      }
+    ],
+    "西南财经大学": [
+      {
+        "score": 12,
+        "anchor": "西南财经大学经济信息工程学院",
+        "url": "https://it.swufe.edu.cn/",
+        "host": "it.swufe.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西南财经大学研招网",
+        "url": "http://yz.swufe.edu.cn/web/",
+        "host": "yz.swufe.edu.cn"
+      }
+    ],
+    "中国民用航空飞行学院": [],
+    "大理大学": [
+      {
+        "score": 12,
+        "anchor": "大理大学数学与计算机学院",
+        "url": "https://www.dali.edu.cn/sjxy/",
+        "host": "www.dali.edu.cn"
+      },
+      {
+        "score": 8,
+        "anchor": "大理大学研招网",
+        "url": "https://yjsc.dali.edu.cn/yjsh/index.asp",
+        "host": "yjsc.dali.edu.cn"
+      }
+    ],
+    "西南民族大学": [
+      {
+        "score": 9,
+        "anchor": "西南民族大学研招网",
+        "url": "http://yjsglxt.swun.edu.cn:8080/",
+        "host": "yjsglxt.swun.edu.cn:8080"
+      }
+    ],
+    "云南师范大学": [
+      {
+        "score": 9,
+        "anchor": "云南师范大学研招网",
+        "url": "http://zsb.ynnu.edu.cn/",
+        "host": "zsb.ynnu.edu.cn"
+      }
+    ],
+    "成都理工大学": [
+      {
+        "score": 12,
+        "anchor": "成都理工大学计算机与网络安全学院",
+        "url": "https://cist.cdut.edu.cn/",
+        "host": "cist.cdut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "成都理工大学研招网",
+        "url": "https://gra.cdut.edu.cn/index.htm",
+        "host": "gra.cdut.edu.cn"
+      }
+    ],
+    "西北农林科技大学": [
+      {
+        "score": 12,
+        "anchor": "西北农林科技大学信息工程学院",
+        "url": "https://cie.nwsuaf.edu.cn/",
+        "host": "cie.nwsuaf.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西北农林科技大学研招网",
+        "url": "https://yz.nwsuaf.edu.cn/",
+        "host": "yz.nwsuaf.edu.cn"
+      }
+    ],
+    "云南财经大学": [
+      {
+        "score": 8,
+        "anchor": "云南财经大学研招网",
+        "url": "http://www.ynufe.edu.cn/pub/yjsb/#ad-image-0",
+        "host": "www.ynufe.edu.cn"
+      }
+    ],
+    "西安交通大学": [
+      {
+        "score": 12,
+        "anchor": "西安交通大学人工智能学院",
+        "url": "http://www.aiar.xjtu.edu.cn/",
+        "host": "www.aiar.xjtu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西安交通大学研招网",
+        "url": "http://yz.xjtu.edu.cn/",
+        "host": "yz.xjtu.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "计算机科学与技术学院",
+        "url": "http://www.cs.xjtu.edu.cn/",
+        "host": "www.cs.xjtu.edu.cn"
+      },
+      {
+        "score": 4,
+        "anchor": "软件学院",
+        "url": "https://se.xjtu.edu.cn/",
+        "host": "se.xjtu.edu.cn"
+      }
+    ],
+    "云南大学": [
+      {
+        "score": 12,
+        "anchor": "云南大学信息学院",
+        "url": "http://www.ise.ynu.edu.cn/",
+        "host": "www.ise.ynu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "云南大学软件学院",
+        "url": "http://www.sei.ynu.edu.cn/",
+        "host": "www.sei.ynu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "云南大学研招网",
+        "url": "http://www.grs.ynu.edu.cn/",
+        "host": "www.grs.ynu.edu.cn"
+      }
+    ],
+    "西北工业大学": [
+      {
+        "score": 12,
+        "anchor": "西北工业大学计算机学院官网",
+        "url": "http://jsj.nwpu.edu.cn/",
+        "host": "jsj.nwpu.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "西北工业大学软件学院官网",
+        "url": "http://ruanjian.nwpu.edu.cn/",
+        "host": "ruanjian.nwpu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西北工业大学网络空间安全学院",
+        "url": "http://wlkjaqxy.nwpu.edu.cn/",
+        "host": "wlkjaqxy.nwpu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西北工业大学研招网",
+        "url": "https://yzb.nwpu.edu.cn/",
+        "host": "yzb.nwpu.edu.cn"
+      }
+    ],
+    "青海师范大学": [
+      {
+        "score": 9,
+        "anchor": "青海师范大学研招网",
+        "url": "http://yjsb.qhnu.edu.cn/",
+        "host": "yjsb.qhnu.edu.cn"
+      }
+    ],
+    "西安电子科技大学": [
+      {
+        "score": 12,
+        "anchor": "西安电子科技大学计算机科学与技术学院",
+        "url": "https://cs.xidian.edu.cn/",
+        "host": "cs.xidian.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "西安电子科技大学网络与信息空间学院",
+        "url": "http://ce.xidian.edu.cn/",
+        "host": "ce.xidian.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "西安电子科技大学人工智能学院",
+        "url": "https://sai.xidian.edu.cn/",
+        "host": "sai.xidian.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "西安电子科技大学研招网",
+        "url": "https://gr.xidian.edu.cn/",
+        "host": "gr.xidian.edu.cn"
+      }
+    ],
+    "青海大学": [
+      {
+        "score": 12,
+        "anchor": "青海大学计算机技术与应用系",
+        "url": "http://cs.qhu.edu.cn/",
+        "host": "cs.qhu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "青海大学研招网",
+        "url": "http://yjs.qhu.edu.cn/index.htm",
+        "host": "yjs.qhu.edu.cn"
+      }
+    ],
+    "长安大学": [
+      {
+        "score": 12,
+        "anchor": "长安大学信息工程学院",
+        "url": "http://it.chd.edu.cn/",
+        "host": "it.chd.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "长安大学研招网",
+        "url": "http://yzb.chd.edu.cn/",
+        "host": "yzb.chd.edu.cn"
+      }
+    ],
+    "陕西科技大学": [
+      {
+        "score": 9,
+        "anchor": "陕西科技大学研招网",
+        "url": "http://yjsxy.www.sust.edu.cn/",
+        "host": "yjsxy.www.sust.edu.cn"
+      }
+    ],
+    "陕西师范大学": [
+      {
+        "score": 12,
+        "anchor": "陕西师范大学计算机科学学院",
+        "url": "http://ccs.snnu.edu.cn/",
+        "host": "ccs.snnu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "陕西师范大学研招网",
+        "url": "https://yz.snnu.edu.cn/",
+        "host": "yz.snnu.edu.cn"
+      }
+    ],
+    "兰州理工大学": [
+      {
+        "score": 12,
+        "anchor": "兰州理工大学计算机与通信工程学院",
+        "url": "https://jitong.lut.edu.cn/",
+        "host": "jitong.lut.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "兰州理工大学研招网",
+        "url": "https://ge.lut.edu.cn/",
+        "host": "ge.lut.edu.cn"
+      }
+    ],
+    "广西大学": [
+      {
+        "score": 12,
+        "anchor": "广西大学计算机与电子信息学院",
+        "url": "http://scei.gxu.edu.cn/",
+        "host": "scei.gxu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "广西大学研招网",
+        "url": "http://yjsc.gxu.edu.cn/",
+        "host": "yjsc.gxu.edu.cn"
+      }
+    ],
+    "内蒙古大学": [
+      {
+        "score": 12,
+        "anchor": "内蒙古大学计算机学院",
+        "url": "http://ccs.imu.edu.cn/",
+        "host": "ccs.imu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "内蒙古大学研招网",
+        "url": "http://gs.imu.edu.cn/index.htm",
+        "host": "gs.imu.edu.cn"
+      }
+    ],
+    "桂林电子科技大学": [
+      {
+        "score": 12,
+        "anchor": "桂林电子科技大学计算机与信息安全学院",
+        "url": "https://www.guet.edu.cn/dept3/",
+        "host": "www.guet.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "桂林电子科技大学研招网",
+        "url": "https://www.guet.edu.cn/gra/",
+        "host": "www.guet.edu.cn"
+      }
+    ],
+    "广西民族大学": [
+      {
+        "score": 8,
+        "anchor": "广西民族大学研招网",
+        "url": "https://yjs.gxmzu.edu.cn/tzgg/zsgg.htm",
+        "host": "yjs.gxmzu.edu.cn"
+      }
+    ],
+    "广西师范大学": [
+      {
+        "score": 9,
+        "anchor": "广西师范大学研招网",
+        "url": "http://www.yz.gxnu.edu.cn/",
+        "host": "www.yz.gxnu.edu.cn"
+      }
+    ],
+    "新疆大学": [
+      {
+        "score": 12,
+        "anchor": "新疆大学计算机科学与技术学院",
+        "url": "http://it.xju.edu.cn/",
+        "host": "it.xju.edu.cn"
+      },
+      {
+        "score": 12,
+        "anchor": "新疆大学软件学院",
+        "url": "http://ss.xju.edu.cn/",
+        "host": "ss.xju.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "新疆大学研招网",
+        "url": "http://gs.xju.edu.cn/",
+        "host": "gs.xju.edu.cn"
+      }
+    ],
+    "石河子大学": [
+      {
+        "score": 12,
+        "anchor": "石河子大学信息科学与技术学院",
+        "url": "http://xxxy.shzu.edu.cn/",
+        "host": "xxxy.shzu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "石河子大学研招网",
+        "url": "http://yz.shzu.edu.cn/",
+        "host": "yz.shzu.edu.cn"
+      }
+    ],
+    "桂林理工大学": [
+      {
+        "score": 9,
+        "anchor": "桂林理工大学研招网",
+        "url": "http://yjsy.glut.edu.cn/",
+        "host": "yjsy.glut.edu.cn"
+      }
+    ],
+    "西藏大学": [
+      {
+        "score": 9,
+        "anchor": "西藏大学研招网",
+        "url": "http://yjsc.utibet.edu.cn/",
+        "host": "yjsc.utibet.edu.cn"
+      }
+    ],
+    "宁夏大学": [
+      {
+        "score": 12,
+        "anchor": "宁夏大学信息工程学院",
+        "url": "http://xxgc.nxu.edu.cn/",
+        "host": "xxgc.nxu.edu.cn"
+      },
+      {
+        "score": 9,
+        "anchor": "宁夏大学研招网",
+        "url": "http://graduate.nxu.edu.cn/",
+        "host": "graduate.nxu.edu.cn"
+      }
+    ],
+    "西藏民族大学": [
+      {
+        "score": 9,
+        "anchor": "西藏民族大学研招网",
+        "url": "http://www.xzmu.edu.cn/",
+        "host": "www.xzmu.edu.cn"
+      }
+    ]
+  },
+  "errors": {
+    "北京工商大学": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "陆军工程大学": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "广州大学": "<urlopen error [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)>",
+    "西北大学": "netloc '【改考408】初试占比60%，260的分数线，你要来抄底吗？25西北大学计算机考研考情分析' contains invalid characters under NFKC normalization",
+    "武汉理工大学": "The read operation timed out"
+  }
+}
